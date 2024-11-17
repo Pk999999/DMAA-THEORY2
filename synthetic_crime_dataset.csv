@@ -1,0 +1,2556 @@
+Date,Location,Crime_Type,Severity
+2023-01-01,Downtown,Theft,Low
+2023-01-01,Downtown,Drug Offense,Medium
+2023-01-01,Downtown,Theft,Low
+2023-01-01,Downtown,Burglary,Medium
+2023-01-01,Downtown,Burglary,Low
+2023-01-01,Suburb,Theft,Low
+2023-01-01,Suburb,Vandalism,High
+2023-01-01,Suburb,Theft,Low
+2023-01-01,Suburb,Vandalism,Medium
+2023-01-01,Industrial Area,Burglary,High
+2023-01-01,Industrial Area,Vandalism,Medium
+2023-01-01,Residential Zone,Burglary,Medium
+2023-01-01,City Center,Assault,Low
+2023-01-01,City Center,Vandalism,Low
+2023-01-01,City Center,Burglary,Medium
+2023-01-02,Downtown,Vandalism,Medium
+2023-01-02,Downtown,Vandalism,Low
+2023-01-02,Downtown,Drug Offense,Low
+2023-01-02,Suburb,Drug Offense,Low
+2023-01-02,Suburb,Assault,Medium
+2023-01-02,Suburb,Vandalism,Low
+2023-01-02,Suburb,Theft,Low
+2023-01-02,Suburb,Theft,Medium
+2023-01-02,Industrial Area,Drug Offense,Medium
+2023-01-02,Industrial Area,Theft,Medium
+2023-01-02,Industrial Area,Theft,Low
+2023-01-02,Industrial Area,Theft,Medium
+2023-01-02,Industrial Area,Burglary,Low
+2023-01-02,Industrial Area,Theft,Medium
+2023-01-02,Industrial Area,Burglary,Low
+2023-01-02,Residential Zone,Assault,Low
+2023-01-02,City Center,Theft,Medium
+2023-01-02,City Center,Vandalism,High
+2023-01-02,City Center,Drug Offense,Low
+2023-01-02,City Center,Drug Offense,High
+2023-01-02,City Center,Vandalism,Low
+2023-01-02,City Center,Vandalism,High
+2023-01-03,Downtown,Assault,High
+2023-01-03,Downtown,Assault,Low
+2023-01-03,Downtown,Theft,Low
+2023-01-03,Downtown,Drug Offense,Medium
+2023-01-03,Downtown,Burglary,Low
+2023-01-03,Suburb,Assault,Low
+2023-01-03,Suburb,Assault,Low
+2023-01-03,Suburb,Burglary,Medium
+2023-01-03,Suburb,Drug Offense,Low
+2023-01-03,Suburb,Assault,Low
+2023-01-03,Suburb,Burglary,Medium
+2023-01-03,Suburb,Burglary,High
+2023-01-03,Suburb,Vandalism,Low
+2023-01-03,Industrial Area,Theft,Low
+2023-01-03,Industrial Area,Drug Offense,High
+2023-01-03,Industrial Area,Vandalism,Medium
+2023-01-03,Industrial Area,Theft,Medium
+2023-01-03,Industrial Area,Theft,Low
+2023-01-03,Industrial Area,Vandalism,High
+2023-01-03,Industrial Area,Burglary,High
+2023-01-03,Industrial Area,Theft,Low
+2023-01-03,Residential Zone,Burglary,High
+2023-01-03,Residential Zone,Vandalism,Medium
+2023-01-03,Residential Zone,Theft,Low
+2023-01-03,Residential Zone,Assault,Low
+2023-01-03,Residential Zone,Theft,High
+2023-01-03,Residential Zone,Assault,Medium
+2023-01-03,Residential Zone,Theft,High
+2023-01-03,City Center,Theft,Medium
+2023-01-03,City Center,Assault,Low
+2023-01-03,City Center,Vandalism,Low
+2023-01-03,City Center,Drug Offense,Low
+2023-01-03,City Center,Theft,Medium
+2023-01-03,City Center,Assault,Medium
+2023-01-03,City Center,Theft,Low
+2023-01-03,City Center,Drug Offense,Low
+2023-01-04,Downtown,Vandalism,Low
+2023-01-04,Downtown,Assault,Low
+2023-01-04,Downtown,Vandalism,High
+2023-01-04,Downtown,Drug Offense,Low
+2023-01-04,Downtown,Theft,Medium
+2023-01-04,Downtown,Drug Offense,High
+2023-01-04,Downtown,Assault,Medium
+2023-01-04,Suburb,Assault,Low
+2023-01-04,Suburb,Burglary,Medium
+2023-01-04,Suburb,Burglary,High
+2023-01-04,Suburb,Burglary,Medium
+2023-01-04,Industrial Area,Burglary,High
+2023-01-04,Industrial Area,Assault,Medium
+2023-01-04,Industrial Area,Vandalism,Medium
+2023-01-04,Industrial Area,Assault,Medium
+2023-01-04,Industrial Area,Vandalism,Medium
+2023-01-04,Industrial Area,Vandalism,High
+2023-01-04,Industrial Area,Vandalism,Medium
+2023-01-04,Industrial Area,Theft,Low
+2023-01-04,Residential Zone,Vandalism,Low
+2023-01-04,Residential Zone,Theft,Low
+2023-01-04,Residential Zone,Assault,High
+2023-01-04,City Center,Vandalism,Low
+2023-01-04,City Center,Burglary,Medium
+2023-01-04,City Center,Theft,Medium
+2023-01-04,City Center,Theft,Low
+2023-01-04,City Center,Burglary,Low
+2023-01-04,City Center,Drug Offense,Low
+2023-01-05,Downtown,Assault,Medium
+2023-01-05,Downtown,Drug Offense,Medium
+2023-01-05,Downtown,Drug Offense,Medium
+2023-01-05,Downtown,Drug Offense,Medium
+2023-01-05,Downtown,Theft,Low
+2023-01-05,Suburb,Vandalism,Low
+2023-01-05,Suburb,Assault,Low
+2023-01-05,Industrial Area,Burglary,Low
+2023-01-05,Industrial Area,Vandalism,Low
+2023-01-05,Residential Zone,Burglary,Medium
+2023-01-05,Residential Zone,Burglary,Medium
+2023-01-05,Residential Zone,Drug Offense,Medium
+2023-01-05,Residential Zone,Burglary,Low
+2023-01-05,City Center,Vandalism,Low
+2023-01-05,City Center,Vandalism,Low
+2023-01-05,City Center,Burglary,Low
+2023-01-05,City Center,Burglary,Medium
+2023-01-05,City Center,Assault,Medium
+2023-01-05,City Center,Drug Offense,High
+2023-01-05,City Center,Burglary,Low
+2023-01-05,City Center,Theft,Low
+2023-01-05,City Center,Vandalism,Medium
+2023-01-05,City Center,Burglary,Medium
+2023-01-06,Downtown,Burglary,Low
+2023-01-06,Downtown,Drug Offense,Low
+2023-01-06,Downtown,Drug Offense,Medium
+2023-01-06,Downtown,Theft,Low
+2023-01-06,Downtown,Assault,Medium
+2023-01-06,Downtown,Vandalism,High
+2023-01-06,Downtown,Drug Offense,High
+2023-01-06,Downtown,Assault,Low
+2023-01-06,Suburb,Drug Offense,Low
+2023-01-06,Suburb,Assault,Medium
+2023-01-06,Suburb,Drug Offense,Medium
+2023-01-06,Suburb,Assault,Low
+2023-01-06,Suburb,Drug Offense,Low
+2023-01-06,Suburb,Burglary,Low
+2023-01-06,Suburb,Drug Offense,Low
+2023-01-06,Industrial Area,Drug Offense,Low
+2023-01-06,Industrial Area,Assault,High
+2023-01-06,Industrial Area,Burglary,Low
+2023-01-06,Industrial Area,Drug Offense,Low
+2023-01-06,Residential Zone,Drug Offense,Low
+2023-01-06,Residential Zone,Theft,Low
+2023-01-06,Residential Zone,Theft,Low
+2023-01-06,Residential Zone,Theft,Low
+2023-01-06,Residential Zone,Burglary,Low
+2023-01-06,Residential Zone,Burglary,Medium
+2023-01-06,Residential Zone,Drug Offense,High
+2023-01-06,Residential Zone,Assault,Medium
+2023-01-06,City Center,Assault,Low
+2023-01-06,City Center,Burglary,Low
+2023-01-06,City Center,Drug Offense,Low
+2023-01-07,Downtown,Assault,Medium
+2023-01-07,Downtown,Theft,High
+2023-01-07,Downtown,Assault,High
+2023-01-07,Downtown,Burglary,High
+2023-01-07,Downtown,Vandalism,Low
+2023-01-07,Downtown,Drug Offense,Low
+2023-01-07,Downtown,Vandalism,Medium
+2023-01-07,Suburb,Theft,Medium
+2023-01-07,Suburb,Assault,Low
+2023-01-07,Suburb,Drug Offense,High
+2023-01-07,Suburb,Vandalism,Low
+2023-01-07,Industrial Area,Drug Offense,Medium
+2023-01-07,Industrial Area,Burglary,Low
+2023-01-07,Industrial Area,Burglary,Medium
+2023-01-07,Residential Zone,Theft,High
+2023-01-07,Residential Zone,Drug Offense,Low
+2023-01-07,Residential Zone,Assault,Low
+2023-01-07,Residential Zone,Assault,Low
+2023-01-07,Residential Zone,Vandalism,High
+2023-01-07,Residential Zone,Drug Offense,High
+2023-01-07,Residential Zone,Drug Offense,Medium
+2023-01-07,City Center,Drug Offense,Medium
+2023-01-07,City Center,Assault,Medium
+2023-01-07,City Center,Burglary,Low
+2023-01-07,City Center,Burglary,Low
+2023-01-07,City Center,Theft,Medium
+2023-01-08,Downtown,Drug Offense,Medium
+2023-01-08,Downtown,Burglary,High
+2023-01-08,Downtown,Vandalism,High
+2023-01-08,Downtown,Burglary,Medium
+2023-01-08,Downtown,Theft,Low
+2023-01-08,Downtown,Burglary,Low
+2023-01-08,Suburb,Vandalism,Low
+2023-01-08,Suburb,Drug Offense,High
+2023-01-08,Suburb,Drug Offense,Low
+2023-01-08,Suburb,Theft,Medium
+2023-01-08,Suburb,Theft,Low
+2023-01-08,Suburb,Assault,Low
+2023-01-08,Suburb,Theft,Low
+2023-01-08,Suburb,Vandalism,Low
+2023-01-08,Industrial Area,Theft,High
+2023-01-08,Industrial Area,Burglary,Low
+2023-01-08,Industrial Area,Drug Offense,Low
+2023-01-08,Industrial Area,Assault,Medium
+2023-01-08,Industrial Area,Vandalism,Low
+2023-01-08,Residential Zone,Assault,Low
+2023-01-08,Residential Zone,Theft,High
+2023-01-08,Residential Zone,Drug Offense,Low
+2023-01-08,City Center,Vandalism,Low
+2023-01-08,City Center,Burglary,Medium
+2023-01-08,City Center,Theft,Low
+2023-01-08,City Center,Theft,High
+2023-01-08,City Center,Theft,Medium
+2023-01-08,City Center,Drug Offense,High
+2023-01-09,Downtown,Assault,High
+2023-01-09,Downtown,Burglary,Medium
+2023-01-09,Downtown,Assault,High
+2023-01-09,Downtown,Vandalism,Low
+2023-01-09,Suburb,Drug Offense,Low
+2023-01-09,Suburb,Burglary,Medium
+2023-01-09,Suburb,Theft,Low
+2023-01-09,Suburb,Drug Offense,Low
+2023-01-09,Suburb,Assault,Low
+2023-01-09,Suburb,Drug Offense,Low
+2023-01-09,Suburb,Vandalism,High
+2023-01-09,Suburb,Assault,Low
+2023-01-09,Industrial Area,Assault,Low
+2023-01-09,Industrial Area,Theft,High
+2023-01-09,Industrial Area,Burglary,Medium
+2023-01-09,Industrial Area,Burglary,Low
+2023-01-09,Industrial Area,Vandalism,Low
+2023-01-09,Industrial Area,Burglary,Low
+2023-01-09,Industrial Area,Theft,Low
+2023-01-09,Residential Zone,Theft,Low
+2023-01-09,Residential Zone,Burglary,Low
+2023-01-09,Residential Zone,Drug Offense,Low
+2023-01-09,Residential Zone,Vandalism,Low
+2023-01-09,Residential Zone,Burglary,Low
+2023-01-09,Residential Zone,Drug Offense,Low
+2023-01-09,Residential Zone,Assault,Medium
+2023-01-09,City Center,Theft,High
+2023-01-09,City Center,Vandalism,Low
+2023-01-09,City Center,Assault,Medium
+2023-01-09,City Center,Vandalism,High
+2023-01-09,City Center,Theft,Medium
+2023-01-09,City Center,Vandalism,Low
+2023-01-10,Downtown,Theft,Medium
+2023-01-10,Downtown,Assault,Medium
+2023-01-10,Downtown,Assault,Low
+2023-01-10,Downtown,Assault,Low
+2023-01-10,Downtown,Burglary,Medium
+2023-01-10,Downtown,Theft,Medium
+2023-01-10,Suburb,Theft,Medium
+2023-01-10,Suburb,Assault,Low
+2023-01-10,Suburb,Drug Offense,Medium
+2023-01-10,Suburb,Assault,Low
+2023-01-10,Suburb,Burglary,Medium
+2023-01-10,Suburb,Theft,Medium
+2023-01-10,Industrial Area,Drug Offense,Medium
+2023-01-10,Industrial Area,Drug Offense,Low
+2023-01-10,Industrial Area,Vandalism,Medium
+2023-01-10,Industrial Area,Theft,Medium
+2023-01-10,Residential Zone,Burglary,Low
+2023-01-10,Residential Zone,Burglary,High
+2023-01-10,Residential Zone,Vandalism,High
+2023-01-10,Residential Zone,Burglary,Medium
+2023-01-10,City Center,Drug Offense,Medium
+2023-01-10,City Center,Burglary,Medium
+2023-01-10,City Center,Burglary,Low
+2023-01-10,City Center,Theft,Medium
+2023-01-11,Downtown,Assault,Low
+2023-01-11,Downtown,Theft,Medium
+2023-01-11,Downtown,Drug Offense,Low
+2023-01-11,Downtown,Drug Offense,Low
+2023-01-11,Downtown,Vandalism,Medium
+2023-01-11,Downtown,Burglary,Low
+2023-01-11,Suburb,Vandalism,High
+2023-01-11,Suburb,Assault,Low
+2023-01-11,Suburb,Drug Offense,High
+2023-01-11,Suburb,Assault,Medium
+2023-01-11,Suburb,Theft,Medium
+2023-01-11,Suburb,Vandalism,Low
+2023-01-11,Suburb,Assault,Low
+2023-01-11,Industrial Area,Drug Offense,Low
+2023-01-11,Industrial Area,Assault,Low
+2023-01-11,Industrial Area,Theft,Low
+2023-01-11,Residential Zone,Theft,Low
+2023-01-11,Residential Zone,Theft,Low
+2023-01-11,Residential Zone,Burglary,Medium
+2023-01-11,City Center,Theft,Low
+2023-01-11,City Center,Burglary,High
+2023-01-11,City Center,Burglary,Low
+2023-01-11,City Center,Vandalism,High
+2023-01-12,Downtown,Assault,Medium
+2023-01-12,Downtown,Theft,High
+2023-01-12,Downtown,Vandalism,Low
+2023-01-12,Downtown,Burglary,High
+2023-01-12,Downtown,Theft,High
+2023-01-12,Suburb,Burglary,Low
+2023-01-12,Suburb,Drug Offense,Low
+2023-01-12,Suburb,Drug Offense,High
+2023-01-12,Suburb,Drug Offense,Low
+2023-01-12,Industrial Area,Drug Offense,Low
+2023-01-12,Industrial Area,Assault,Low
+2023-01-12,Industrial Area,Vandalism,Low
+2023-01-12,Industrial Area,Burglary,Medium
+2023-01-12,Industrial Area,Assault,High
+2023-01-12,Industrial Area,Theft,High
+2023-01-12,Residential Zone,Burglary,Medium
+2023-01-12,Residential Zone,Assault,Low
+2023-01-12,Residential Zone,Theft,Low
+2023-01-12,City Center,Drug Offense,Medium
+2023-01-12,City Center,Burglary,Medium
+2023-01-12,City Center,Drug Offense,Low
+2023-01-12,City Center,Drug Offense,Low
+2023-01-12,City Center,Theft,Medium
+2023-01-12,City Center,Vandalism,Medium
+2023-01-12,City Center,Drug Offense,Low
+2023-01-12,City Center,Drug Offense,High
+2023-01-13,Downtown,Theft,Low
+2023-01-13,Downtown,Drug Offense,High
+2023-01-13,Downtown,Theft,Low
+2023-01-13,Downtown,Assault,Medium
+2023-01-13,Downtown,Theft,High
+2023-01-13,Downtown,Drug Offense,Low
+2023-01-13,Suburb,Assault,Medium
+2023-01-13,Suburb,Drug Offense,Low
+2023-01-13,Suburb,Assault,Low
+2023-01-13,Suburb,Drug Offense,Medium
+2023-01-13,Suburb,Burglary,Low
+2023-01-13,Suburb,Theft,High
+2023-01-13,Industrial Area,Theft,High
+2023-01-13,Industrial Area,Assault,High
+2023-01-13,Industrial Area,Assault,Low
+2023-01-13,Industrial Area,Theft,Medium
+2023-01-13,Industrial Area,Drug Offense,Medium
+2023-01-13,Residential Zone,Burglary,Medium
+2023-01-13,Residential Zone,Assault,Low
+2023-01-13,Residential Zone,Drug Offense,Low
+2023-01-13,Residential Zone,Drug Offense,Medium
+2023-01-13,Residential Zone,Theft,High
+2023-01-13,Residential Zone,Burglary,Low
+2023-01-13,Residential Zone,Drug Offense,Low
+2023-01-13,City Center,Theft,Medium
+2023-01-13,City Center,Drug Offense,Low
+2023-01-13,City Center,Drug Offense,Medium
+2023-01-13,City Center,Burglary,Medium
+2023-01-13,City Center,Vandalism,Medium
+2023-01-14,Downtown,Drug Offense,Medium
+2023-01-14,Downtown,Theft,Low
+2023-01-14,Downtown,Vandalism,Low
+2023-01-14,Downtown,Assault,Low
+2023-01-14,Downtown,Drug Offense,Low
+2023-01-14,Downtown,Vandalism,High
+2023-01-14,Downtown,Burglary,Low
+2023-01-14,Downtown,Vandalism,Medium
+2023-01-14,Downtown,Assault,Low
+2023-01-14,Downtown,Burglary,Low
+2023-01-14,Suburb,Assault,Low
+2023-01-14,Suburb,Assault,Medium
+2023-01-14,Industrial Area,Theft,High
+2023-01-14,Industrial Area,Burglary,Low
+2023-01-14,Industrial Area,Vandalism,Low
+2023-01-14,Industrial Area,Vandalism,High
+2023-01-14,Residential Zone,Assault,Low
+2023-01-14,Residential Zone,Assault,High
+2023-01-14,Residential Zone,Drug Offense,Low
+2023-01-14,City Center,Theft,Low
+2023-01-14,City Center,Drug Offense,Medium
+2023-01-14,City Center,Assault,High
+2023-01-14,City Center,Drug Offense,Low
+2023-01-14,City Center,Assault,Low
+2023-01-14,City Center,Theft,Low
+2023-01-14,City Center,Assault,Low
+2023-01-14,City Center,Burglary,High
+2023-01-15,Downtown,Theft,Medium
+2023-01-15,Downtown,Burglary,Medium
+2023-01-15,Downtown,Drug Offense,Low
+2023-01-15,Downtown,Drug Offense,High
+2023-01-15,Downtown,Drug Offense,High
+2023-01-15,Suburb,Theft,High
+2023-01-15,Suburb,Vandalism,High
+2023-01-15,Suburb,Theft,Low
+2023-01-15,Suburb,Drug Offense,High
+2023-01-15,Suburb,Assault,High
+2023-01-15,Suburb,Vandalism,Medium
+2023-01-15,Suburb,Vandalism,Low
+2023-01-15,Industrial Area,Theft,Low
+2023-01-15,Industrial Area,Burglary,High
+2023-01-15,Industrial Area,Drug Offense,Medium
+2023-01-15,Industrial Area,Burglary,Low
+2023-01-15,Residential Zone,Burglary,Low
+2023-01-15,Residential Zone,Burglary,Low
+2023-01-15,Residential Zone,Vandalism,Low
+2023-01-15,Residential Zone,Drug Offense,Low
+2023-01-15,Residential Zone,Vandalism,Low
+2023-01-15,Residential Zone,Vandalism,Low
+2023-01-15,Residential Zone,Theft,Low
+2023-01-15,City Center,Burglary,High
+2023-01-15,City Center,Drug Offense,Low
+2023-01-15,City Center,Theft,Low
+2023-01-15,City Center,Drug Offense,Low
+2023-01-16,Downtown,Burglary,Low
+2023-01-16,Downtown,Burglary,High
+2023-01-16,Downtown,Assault,Low
+2023-01-16,Downtown,Assault,Low
+2023-01-16,Suburb,Theft,High
+2023-01-16,Suburb,Vandalism,Low
+2023-01-16,Suburb,Drug Offense,High
+2023-01-16,Suburb,Drug Offense,Medium
+2023-01-16,Suburb,Theft,Low
+2023-01-16,Industrial Area,Assault,Medium
+2023-01-16,Industrial Area,Burglary,High
+2023-01-16,Industrial Area,Theft,High
+2023-01-16,Industrial Area,Assault,High
+2023-01-16,Industrial Area,Drug Offense,Low
+2023-01-16,Residential Zone,Drug Offense,Low
+2023-01-16,Residential Zone,Drug Offense,High
+2023-01-16,City Center,Assault,Medium
+2023-01-16,City Center,Vandalism,Low
+2023-01-16,City Center,Assault,Low
+2023-01-17,Downtown,Burglary,Low
+2023-01-17,Downtown,Theft,Medium
+2023-01-17,Downtown,Assault,High
+2023-01-17,Downtown,Assault,Low
+2023-01-17,Downtown,Theft,Low
+2023-01-17,Downtown,Assault,Low
+2023-01-17,Suburb,Vandalism,Medium
+2023-01-17,Suburb,Burglary,Medium
+2023-01-17,Industrial Area,Drug Offense,Low
+2023-01-17,Industrial Area,Burglary,High
+2023-01-17,Industrial Area,Burglary,Medium
+2023-01-17,Industrial Area,Burglary,High
+2023-01-17,Residential Zone,Theft,Low
+2023-01-17,Residential Zone,Assault,Low
+2023-01-17,Residential Zone,Assault,Medium
+2023-01-17,City Center,Burglary,Medium
+2023-01-17,City Center,Theft,Low
+2023-01-17,City Center,Vandalism,Medium
+2023-01-17,City Center,Theft,Medium
+2023-01-17,City Center,Vandalism,Low
+2023-01-17,City Center,Drug Offense,Low
+2023-01-17,City Center,Theft,Low
+2023-01-18,Downtown,Drug Offense,High
+2023-01-18,Downtown,Assault,Low
+2023-01-18,Downtown,Vandalism,Low
+2023-01-18,Downtown,Theft,Low
+2023-01-18,Downtown,Assault,High
+2023-01-18,Downtown,Assault,High
+2023-01-18,Downtown,Burglary,Medium
+2023-01-18,Suburb,Assault,Medium
+2023-01-18,Suburb,Assault,Low
+2023-01-18,Suburb,Drug Offense,Low
+2023-01-18,Suburb,Vandalism,High
+2023-01-18,Industrial Area,Assault,Low
+2023-01-18,Industrial Area,Vandalism,High
+2023-01-18,Industrial Area,Burglary,Low
+2023-01-18,Industrial Area,Burglary,Low
+2023-01-18,Industrial Area,Drug Offense,Low
+2023-01-18,Industrial Area,Assault,Low
+2023-01-18,Industrial Area,Vandalism,Low
+2023-01-18,Residential Zone,Vandalism,Low
+2023-01-18,Residential Zone,Drug Offense,Low
+2023-01-18,Residential Zone,Assault,Medium
+2023-01-18,Residential Zone,Vandalism,High
+2023-01-18,Residential Zone,Theft,High
+2023-01-18,City Center,Drug Offense,Low
+2023-01-18,City Center,Theft,High
+2023-01-18,City Center,Assault,Low
+2023-01-18,City Center,Vandalism,Low
+2023-01-19,Downtown,Burglary,Low
+2023-01-19,Downtown,Drug Offense,High
+2023-01-19,Downtown,Drug Offense,Medium
+2023-01-19,Downtown,Theft,Low
+2023-01-19,Downtown,Drug Offense,Low
+2023-01-19,Downtown,Assault,Medium
+2023-01-19,Downtown,Vandalism,Low
+2023-01-19,Downtown,Drug Offense,Low
+2023-01-19,Downtown,Theft,Low
+2023-01-19,Suburb,Drug Offense,Low
+2023-01-19,Suburb,Burglary,Low
+2023-01-19,Suburb,Burglary,Low
+2023-01-19,Suburb,Drug Offense,Low
+2023-01-19,Suburb,Drug Offense,High
+2023-01-19,Suburb,Burglary,Medium
+2023-01-19,Suburb,Burglary,Low
+2023-01-19,Industrial Area,Burglary,High
+2023-01-19,Residential Zone,Drug Offense,Medium
+2023-01-19,Residential Zone,Assault,Low
+2023-01-19,Residential Zone,Vandalism,Low
+2023-01-19,Residential Zone,Assault,High
+2023-01-19,Residential Zone,Assault,High
+2023-01-19,City Center,Theft,Low
+2023-01-19,City Center,Assault,Low
+2023-01-19,City Center,Assault,Low
+2023-01-19,City Center,Drug Offense,Low
+2023-01-19,City Center,Drug Offense,Low
+2023-01-19,City Center,Assault,Medium
+2023-01-19,City Center,Theft,Low
+2023-01-19,City Center,Burglary,Medium
+2023-01-19,City Center,Burglary,Medium
+2023-01-19,City Center,Assault,Low
+2023-01-20,Downtown,Burglary,Low
+2023-01-20,Downtown,Drug Offense,Low
+2023-01-20,Downtown,Drug Offense,Low
+2023-01-20,Suburb,Assault,Medium
+2023-01-20,Suburb,Theft,Low
+2023-01-20,Suburb,Drug Offense,Low
+2023-01-20,Suburb,Theft,Low
+2023-01-20,Suburb,Drug Offense,Medium
+2023-01-20,Suburb,Drug Offense,Low
+2023-01-20,Suburb,Theft,High
+2023-01-20,Suburb,Vandalism,Medium
+2023-01-20,Suburb,Burglary,Medium
+2023-01-20,Industrial Area,Vandalism,Low
+2023-01-20,Industrial Area,Drug Offense,Low
+2023-01-20,Industrial Area,Assault,Medium
+2023-01-20,Industrial Area,Burglary,High
+2023-01-20,Residential Zone,Theft,Low
+2023-01-20,Residential Zone,Drug Offense,High
+2023-01-20,Residential Zone,Assault,Medium
+2023-01-20,Residential Zone,Burglary,Low
+2023-01-20,City Center,Assault,Low
+2023-01-20,City Center,Vandalism,Low
+2023-01-20,City Center,Burglary,Low
+2023-01-20,City Center,Assault,Medium
+2023-01-20,City Center,Burglary,Low
+2023-01-20,City Center,Drug Offense,Low
+2023-01-20,City Center,Drug Offense,Medium
+2023-01-20,City Center,Vandalism,Low
+2023-01-21,Downtown,Assault,High
+2023-01-21,Downtown,Theft,Medium
+2023-01-21,Downtown,Burglary,Low
+2023-01-21,Suburb,Burglary,Low
+2023-01-21,Suburb,Drug Offense,Low
+2023-01-21,Suburb,Drug Offense,High
+2023-01-21,Suburb,Theft,Low
+2023-01-21,Suburb,Assault,Low
+2023-01-21,Industrial Area,Drug Offense,Low
+2023-01-21,Industrial Area,Drug Offense,Low
+2023-01-21,Industrial Area,Burglary,Medium
+2023-01-21,Residential Zone,Vandalism,Medium
+2023-01-21,Residential Zone,Assault,High
+2023-01-21,Residential Zone,Vandalism,Low
+2023-01-21,City Center,Assault,High
+2023-01-21,City Center,Vandalism,Low
+2023-01-21,City Center,Vandalism,High
+2023-01-21,City Center,Theft,High
+2023-01-21,City Center,Drug Offense,Low
+2023-01-21,City Center,Theft,Low
+2023-01-22,Downtown,Vandalism,Medium
+2023-01-22,Downtown,Burglary,Low
+2023-01-22,Downtown,Vandalism,Low
+2023-01-22,Downtown,Burglary,Low
+2023-01-22,Downtown,Assault,Low
+2023-01-22,Downtown,Theft,Low
+2023-01-22,Downtown,Assault,Low
+2023-01-22,Downtown,Vandalism,Low
+2023-01-22,Suburb,Assault,Low
+2023-01-22,Suburb,Burglary,Medium
+2023-01-22,Suburb,Burglary,High
+2023-01-22,Suburb,Theft,Medium
+2023-01-22,Suburb,Vandalism,High
+2023-01-22,Suburb,Drug Offense,Low
+2023-01-22,Suburb,Theft,Medium
+2023-01-22,Industrial Area,Drug Offense,Low
+2023-01-22,Industrial Area,Theft,Low
+2023-01-22,Industrial Area,Assault,Medium
+2023-01-22,Industrial Area,Burglary,Low
+2023-01-22,Industrial Area,Burglary,Medium
+2023-01-22,Industrial Area,Vandalism,Low
+2023-01-22,Industrial Area,Vandalism,High
+2023-01-22,Industrial Area,Vandalism,Low
+2023-01-22,Residential Zone,Burglary,Medium
+2023-01-22,Residential Zone,Theft,Low
+2023-01-22,Residential Zone,Drug Offense,Medium
+2023-01-22,Residential Zone,Burglary,Low
+2023-01-22,City Center,Drug Offense,Low
+2023-01-22,City Center,Theft,Low
+2023-01-22,City Center,Vandalism,Medium
+2023-01-22,City Center,Vandalism,High
+2023-01-22,City Center,Assault,Low
+2023-01-23,Downtown,Drug Offense,Low
+2023-01-23,Downtown,Theft,Low
+2023-01-23,Downtown,Drug Offense,Low
+2023-01-23,Downtown,Drug Offense,Low
+2023-01-23,Downtown,Burglary,Low
+2023-01-23,Downtown,Drug Offense,Low
+2023-01-23,Suburb,Drug Offense,High
+2023-01-23,Suburb,Drug Offense,High
+2023-01-23,Suburb,Burglary,Low
+2023-01-23,Suburb,Vandalism,Low
+2023-01-23,Industrial Area,Vandalism,High
+2023-01-23,Industrial Area,Vandalism,Medium
+2023-01-23,Industrial Area,Theft,Low
+2023-01-23,Industrial Area,Vandalism,High
+2023-01-23,Residential Zone,Assault,High
+2023-01-23,Residential Zone,Burglary,Low
+2023-01-23,Residential Zone,Drug Offense,Low
+2023-01-23,City Center,Assault,Low
+2023-01-23,City Center,Drug Offense,Low
+2023-01-23,City Center,Vandalism,Medium
+2023-01-23,City Center,Drug Offense,Low
+2023-01-23,City Center,Assault,Medium
+2023-01-23,City Center,Assault,Low
+2023-01-23,City Center,Theft,Low
+2023-01-24,Downtown,Theft,Low
+2023-01-24,Downtown,Drug Offense,Medium
+2023-01-24,Downtown,Burglary,Low
+2023-01-24,Downtown,Vandalism,High
+2023-01-24,Downtown,Assault,High
+2023-01-24,Downtown,Burglary,Low
+2023-01-24,Downtown,Vandalism,Medium
+2023-01-24,Suburb,Burglary,Medium
+2023-01-24,Suburb,Drug Offense,High
+2023-01-24,Suburb,Vandalism,Low
+2023-01-24,Suburb,Burglary,Low
+2023-01-24,Suburb,Burglary,Low
+2023-01-24,Suburb,Assault,Low
+2023-01-24,Industrial Area,Theft,High
+2023-01-24,Industrial Area,Drug Offense,Low
+2023-01-24,Industrial Area,Assault,Low
+2023-01-24,Industrial Area,Burglary,Medium
+2023-01-24,Industrial Area,Drug Offense,High
+2023-01-24,Residential Zone,Theft,Low
+2023-01-24,Residential Zone,Vandalism,Low
+2023-01-24,Residential Zone,Burglary,Low
+2023-01-24,City Center,Vandalism,Medium
+2023-01-24,City Center,Theft,Medium
+2023-01-24,City Center,Assault,Medium
+2023-01-24,City Center,Theft,Low
+2023-01-25,Downtown,Burglary,Low
+2023-01-25,Downtown,Assault,Medium
+2023-01-25,Downtown,Theft,High
+2023-01-25,Downtown,Theft,Low
+2023-01-25,Suburb,Drug Offense,Medium
+2023-01-25,Suburb,Vandalism,Low
+2023-01-25,Suburb,Burglary,High
+2023-01-25,Suburb,Vandalism,Medium
+2023-01-25,Suburb,Assault,High
+2023-01-25,Suburb,Assault,Medium
+2023-01-25,Industrial Area,Burglary,High
+2023-01-25,Industrial Area,Theft,Low
+2023-01-25,Industrial Area,Drug Offense,Low
+2023-01-25,Industrial Area,Drug Offense,Low
+2023-01-25,Industrial Area,Vandalism,Low
+2023-01-25,Industrial Area,Drug Offense,Low
+2023-01-25,Residential Zone,Vandalism,Low
+2023-01-25,Residential Zone,Burglary,Medium
+2023-01-25,Residential Zone,Theft,Low
+2023-01-25,Residential Zone,Vandalism,Low
+2023-01-25,Residential Zone,Theft,Low
+2023-01-25,City Center,Assault,Low
+2023-01-25,City Center,Burglary,Low
+2023-01-25,City Center,Assault,Medium
+2023-01-25,City Center,Theft,Medium
+2023-01-25,City Center,Assault,High
+2023-01-25,City Center,Drug Offense,Low
+2023-01-26,Downtown,Vandalism,Low
+2023-01-26,Downtown,Burglary,Low
+2023-01-26,Downtown,Theft,Low
+2023-01-26,Downtown,Drug Offense,Medium
+2023-01-26,Downtown,Theft,Low
+2023-01-26,Downtown,Drug Offense,Low
+2023-01-26,Downtown,Theft,Low
+2023-01-26,Downtown,Theft,Low
+2023-01-26,Suburb,Burglary,High
+2023-01-26,Suburb,Assault,Low
+2023-01-26,Suburb,Assault,Low
+2023-01-26,Suburb,Vandalism,Low
+2023-01-26,Suburb,Assault,Medium
+2023-01-26,Suburb,Assault,High
+2023-01-26,Industrial Area,Vandalism,Low
+2023-01-26,Residential Zone,Vandalism,Low
+2023-01-26,Residential Zone,Vandalism,Medium
+2023-01-26,Residential Zone,Theft,Low
+2023-01-26,Residential Zone,Vandalism,Low
+2023-01-26,Residential Zone,Theft,Low
+2023-01-26,Residential Zone,Burglary,Medium
+2023-01-26,Residential Zone,Theft,High
+2023-01-26,City Center,Assault,Low
+2023-01-26,City Center,Drug Offense,Low
+2023-01-26,City Center,Theft,Medium
+2023-01-26,City Center,Drug Offense,Medium
+2023-01-27,Downtown,Vandalism,Low
+2023-01-27,Downtown,Assault,High
+2023-01-27,Downtown,Assault,Medium
+2023-01-27,Downtown,Drug Offense,Low
+2023-01-27,Downtown,Vandalism,Medium
+2023-01-27,Suburb,Burglary,Low
+2023-01-27,Suburb,Drug Offense,Low
+2023-01-27,Suburb,Assault,Medium
+2023-01-27,Industrial Area,Vandalism,Low
+2023-01-27,Industrial Area,Theft,Low
+2023-01-27,Industrial Area,Assault,Low
+2023-01-27,Industrial Area,Drug Offense,Low
+2023-01-27,Residential Zone,Assault,Medium
+2023-01-27,Residential Zone,Vandalism,Medium
+2023-01-27,Residential Zone,Burglary,Low
+2023-01-27,Residential Zone,Theft,High
+2023-01-27,Residential Zone,Assault,Low
+2023-01-27,Residential Zone,Theft,Low
+2023-01-27,Residential Zone,Vandalism,Low
+2023-01-27,City Center,Vandalism,Medium
+2023-01-27,City Center,Vandalism,Medium
+2023-01-27,City Center,Vandalism,Low
+2023-01-28,Downtown,Burglary,Low
+2023-01-28,Downtown,Theft,Low
+2023-01-28,Downtown,Theft,Low
+2023-01-28,Downtown,Assault,Medium
+2023-01-28,Downtown,Drug Offense,Medium
+2023-01-28,Downtown,Theft,Low
+2023-01-28,Suburb,Drug Offense,Low
+2023-01-28,Suburb,Vandalism,High
+2023-01-28,Suburb,Theft,Low
+2023-01-28,Suburb,Theft,Medium
+2023-01-28,Suburb,Theft,Medium
+2023-01-28,Suburb,Assault,High
+2023-01-28,Suburb,Burglary,Low
+2023-01-28,Suburb,Drug Offense,High
+2023-01-28,Industrial Area,Assault,Low
+2023-01-28,Industrial Area,Burglary,High
+2023-01-28,Industrial Area,Vandalism,Low
+2023-01-28,Industrial Area,Burglary,Low
+2023-01-28,Industrial Area,Vandalism,High
+2023-01-28,Industrial Area,Assault,Low
+2023-01-28,Industrial Area,Vandalism,High
+2023-01-28,Residential Zone,Assault,Low
+2023-01-28,Residential Zone,Burglary,Low
+2023-01-28,Residential Zone,Vandalism,Medium
+2023-01-28,Residential Zone,Assault,Medium
+2023-01-28,Residential Zone,Assault,High
+2023-01-28,Residential Zone,Theft,Medium
+2023-01-28,Residential Zone,Assault,Low
+2023-01-28,Residential Zone,Drug Offense,Low
+2023-01-28,City Center,Theft,Low
+2023-01-28,City Center,Vandalism,Low
+2023-01-28,City Center,Theft,Low
+2023-01-28,City Center,Theft,Low
+2023-01-28,City Center,Assault,Low
+2023-01-28,City Center,Burglary,High
+2023-01-28,City Center,Assault,Low
+2023-01-28,City Center,Theft,High
+2023-01-28,City Center,Theft,High
+2023-01-28,City Center,Vandalism,High
+2023-01-29,Downtown,Vandalism,Low
+2023-01-29,Downtown,Assault,Low
+2023-01-29,Downtown,Vandalism,Low
+2023-01-29,Downtown,Theft,Low
+2023-01-29,Downtown,Assault,Low
+2023-01-29,Downtown,Assault,Low
+2023-01-29,Downtown,Vandalism,High
+2023-01-29,Suburb,Theft,High
+2023-01-29,Suburb,Burglary,Medium
+2023-01-29,Suburb,Drug Offense,Low
+2023-01-29,Suburb,Vandalism,Low
+2023-01-29,Suburb,Vandalism,Low
+2023-01-29,Suburb,Drug Offense,Medium
+2023-01-29,Suburb,Assault,Medium
+2023-01-29,Suburb,Assault,Low
+2023-01-29,Industrial Area,Vandalism,Low
+2023-01-29,Industrial Area,Assault,Low
+2023-01-29,Industrial Area,Vandalism,Low
+2023-01-29,Residential Zone,Vandalism,Low
+2023-01-29,Residential Zone,Vandalism,High
+2023-01-29,Residential Zone,Burglary,Low
+2023-01-29,Residential Zone,Assault,Medium
+2023-01-29,Residential Zone,Assault,Low
+2023-01-29,Residential Zone,Drug Offense,Low
+2023-01-29,City Center,Vandalism,Low
+2023-01-30,Downtown,Assault,Low
+2023-01-30,Downtown,Theft,High
+2023-01-30,Downtown,Assault,Low
+2023-01-30,Downtown,Drug Offense,Low
+2023-01-30,Downtown,Burglary,Low
+2023-01-30,Downtown,Assault,Low
+2023-01-30,Downtown,Drug Offense,Low
+2023-01-30,Suburb,Theft,Low
+2023-01-30,Suburb,Theft,Low
+2023-01-30,Suburb,Drug Offense,Low
+2023-01-30,Suburb,Vandalism,Medium
+2023-01-30,Industrial Area,Drug Offense,High
+2023-01-30,Industrial Area,Assault,Medium
+2023-01-30,Industrial Area,Burglary,Low
+2023-01-30,Industrial Area,Vandalism,Low
+2023-01-30,Industrial Area,Vandalism,Low
+2023-01-30,Industrial Area,Theft,Medium
+2023-01-30,Industrial Area,Vandalism,High
+2023-01-30,Industrial Area,Vandalism,Low
+2023-01-30,Industrial Area,Assault,High
+2023-01-30,Residential Zone,Burglary,Low
+2023-01-30,Residential Zone,Assault,Medium
+2023-01-30,Residential Zone,Vandalism,Low
+2023-01-30,Residential Zone,Theft,Medium
+2023-01-30,City Center,Burglary,High
+2023-01-30,City Center,Assault,Low
+2023-01-30,City Center,Assault,Medium
+2023-01-30,City Center,Assault,Low
+2023-01-30,City Center,Drug Offense,Medium
+2023-01-30,City Center,Burglary,Low
+2023-01-30,City Center,Drug Offense,Low
+2023-01-31,Downtown,Burglary,Low
+2023-01-31,Downtown,Vandalism,Low
+2023-01-31,Downtown,Burglary,Low
+2023-01-31,Downtown,Drug Offense,Medium
+2023-01-31,Downtown,Drug Offense,High
+2023-01-31,Downtown,Assault,High
+2023-01-31,Downtown,Theft,Low
+2023-01-31,Downtown,Vandalism,Low
+2023-01-31,Downtown,Theft,Low
+2023-01-31,Suburb,Drug Offense,Medium
+2023-01-31,Suburb,Vandalism,Medium
+2023-01-31,Suburb,Assault,Low
+2023-01-31,Industrial Area,Burglary,Low
+2023-01-31,Industrial Area,Theft,Low
+2023-01-31,Industrial Area,Burglary,Low
+2023-01-31,Industrial Area,Theft,Low
+2023-01-31,Industrial Area,Drug Offense,Low
+2023-01-31,Residential Zone,Vandalism,Low
+2023-01-31,Residential Zone,Vandalism,High
+2023-01-31,Residential Zone,Assault,Medium
+2023-01-31,Residential Zone,Burglary,Low
+2023-01-31,Residential Zone,Drug Offense,High
+2023-01-31,Residential Zone,Theft,Low
+2023-01-31,Residential Zone,Burglary,Low
+2023-01-31,Residential Zone,Theft,Low
+2023-01-31,City Center,Drug Offense,Low
+2023-01-31,City Center,Burglary,Low
+2023-01-31,City Center,Theft,Medium
+2023-01-31,City Center,Theft,High
+2023-01-31,City Center,Assault,Medium
+2023-02-01,Downtown,Theft,High
+2023-02-01,Downtown,Theft,Low
+2023-02-01,Downtown,Vandalism,Low
+2023-02-01,Downtown,Theft,Medium
+2023-02-01,Downtown,Drug Offense,Medium
+2023-02-01,Downtown,Vandalism,Low
+2023-02-01,Suburb,Vandalism,High
+2023-02-01,Suburb,Burglary,Low
+2023-02-01,Suburb,Theft,Low
+2023-02-01,Suburb,Theft,Medium
+2023-02-01,Industrial Area,Vandalism,Low
+2023-02-01,Industrial Area,Assault,High
+2023-02-01,Industrial Area,Theft,Low
+2023-02-01,Industrial Area,Theft,Low
+2023-02-01,Industrial Area,Drug Offense,High
+2023-02-01,Industrial Area,Drug Offense,High
+2023-02-01,Industrial Area,Burglary,Low
+2023-02-01,Industrial Area,Drug Offense,Low
+2023-02-01,Industrial Area,Theft,Medium
+2023-02-01,Industrial Area,Burglary,Medium
+2023-02-01,Residential Zone,Theft,Medium
+2023-02-01,Residential Zone,Assault,Medium
+2023-02-01,Residential Zone,Drug Offense,Low
+2023-02-01,Residential Zone,Drug Offense,High
+2023-02-01,Residential Zone,Assault,Medium
+2023-02-01,Residential Zone,Vandalism,Medium
+2023-02-01,Residential Zone,Assault,Medium
+2023-02-01,Residential Zone,Vandalism,Low
+2023-02-01,Residential Zone,Theft,Low
+2023-02-01,City Center,Drug Offense,Low
+2023-02-01,City Center,Burglary,Low
+2023-02-01,City Center,Burglary,Medium
+2023-02-02,Downtown,Drug Offense,Medium
+2023-02-02,Downtown,Vandalism,High
+2023-02-02,Suburb,Drug Offense,Medium
+2023-02-02,Suburb,Assault,Medium
+2023-02-02,Suburb,Drug Offense,Low
+2023-02-02,Industrial Area,Vandalism,Medium
+2023-02-02,Industrial Area,Vandalism,Medium
+2023-02-02,Industrial Area,Burglary,Low
+2023-02-02,Industrial Area,Vandalism,Low
+2023-02-02,Industrial Area,Drug Offense,High
+2023-02-02,Industrial Area,Vandalism,Low
+2023-02-02,Residential Zone,Burglary,Medium
+2023-02-02,Residential Zone,Assault,Medium
+2023-02-02,Residential Zone,Assault,Low
+2023-02-02,Residential Zone,Burglary,Medium
+2023-02-02,City Center,Vandalism,Low
+2023-02-02,City Center,Assault,Low
+2023-02-02,City Center,Assault,High
+2023-02-02,City Center,Vandalism,Medium
+2023-02-02,City Center,Burglary,High
+2023-02-02,City Center,Drug Offense,Low
+2023-02-02,City Center,Vandalism,Medium
+2023-02-03,Downtown,Drug Offense,Low
+2023-02-03,Suburb,Drug Offense,Medium
+2023-02-03,Suburb,Drug Offense,Low
+2023-02-03,Industrial Area,Vandalism,Medium
+2023-02-03,Industrial Area,Vandalism,High
+2023-02-03,Industrial Area,Assault,Low
+2023-02-03,Industrial Area,Vandalism,High
+2023-02-03,Residential Zone,Assault,Low
+2023-02-03,Residential Zone,Drug Offense,High
+2023-02-03,Residential Zone,Burglary,Low
+2023-02-03,Residential Zone,Assault,High
+2023-02-03,City Center,Vandalism,Medium
+2023-02-03,City Center,Vandalism,High
+2023-02-03,City Center,Vandalism,Low
+2023-02-03,City Center,Assault,High
+2023-02-03,City Center,Vandalism,Low
+2023-02-04,Downtown,Burglary,Low
+2023-02-04,Downtown,Vandalism,High
+2023-02-04,Downtown,Theft,Low
+2023-02-04,Downtown,Assault,High
+2023-02-04,Downtown,Vandalism,Low
+2023-02-04,Downtown,Theft,High
+2023-02-04,Suburb,Assault,Medium
+2023-02-04,Suburb,Burglary,High
+2023-02-04,Suburb,Drug Offense,Low
+2023-02-04,Industrial Area,Assault,Medium
+2023-02-04,Industrial Area,Burglary,Low
+2023-02-04,Industrial Area,Assault,Low
+2023-02-04,Industrial Area,Theft,Medium
+2023-02-04,Residential Zone,Theft,Low
+2023-02-04,Residential Zone,Theft,Medium
+2023-02-04,Residential Zone,Drug Offense,Low
+2023-02-04,Residential Zone,Vandalism,Low
+2023-02-04,Residential Zone,Vandalism,Low
+2023-02-04,Residential Zone,Burglary,Medium
+2023-02-04,Residential Zone,Assault,Low
+2023-02-04,City Center,Theft,Low
+2023-02-04,City Center,Drug Offense,Medium
+2023-02-04,City Center,Vandalism,Low
+2023-02-04,City Center,Vandalism,Medium
+2023-02-04,City Center,Assault,Low
+2023-02-04,City Center,Vandalism,Low
+2023-02-04,City Center,Vandalism,Medium
+2023-02-04,City Center,Assault,Medium
+2023-02-04,City Center,Burglary,Low
+2023-02-04,City Center,Drug Offense,Low
+2023-02-05,Downtown,Theft,Medium
+2023-02-05,Downtown,Drug Offense,High
+2023-02-05,Suburb,Drug Offense,Low
+2023-02-05,Suburb,Assault,Low
+2023-02-05,Suburb,Theft,Medium
+2023-02-05,Suburb,Theft,Low
+2023-02-05,Suburb,Vandalism,High
+2023-02-05,Suburb,Vandalism,High
+2023-02-05,Suburb,Theft,High
+2023-02-05,Suburb,Assault,Low
+2023-02-05,Suburb,Drug Offense,Low
+2023-02-05,Industrial Area,Theft,Medium
+2023-02-05,Industrial Area,Drug Offense,High
+2023-02-05,Industrial Area,Theft,Low
+2023-02-05,Industrial Area,Burglary,High
+2023-02-05,Residential Zone,Vandalism,Medium
+2023-02-05,Residential Zone,Drug Offense,Low
+2023-02-05,Residential Zone,Assault,High
+2023-02-05,Residential Zone,Vandalism,Low
+2023-02-05,Residential Zone,Vandalism,Low
+2023-02-05,Residential Zone,Theft,Low
+2023-02-05,City Center,Drug Offense,Low
+2023-02-05,City Center,Drug Offense,Low
+2023-02-05,City Center,Vandalism,Low
+2023-02-05,City Center,Theft,High
+2023-02-05,City Center,Assault,Low
+2023-02-06,Downtown,Vandalism,Medium
+2023-02-06,Downtown,Burglary,Medium
+2023-02-06,Downtown,Burglary,High
+2023-02-06,Downtown,Burglary,High
+2023-02-06,Downtown,Vandalism,Low
+2023-02-06,Downtown,Theft,Low
+2023-02-06,Downtown,Assault,Low
+2023-02-06,Downtown,Assault,Low
+2023-02-06,Downtown,Burglary,Medium
+2023-02-06,Suburb,Theft,Low
+2023-02-06,Suburb,Vandalism,Low
+2023-02-06,Suburb,Burglary,High
+2023-02-06,Suburb,Drug Offense,Medium
+2023-02-06,Suburb,Burglary,High
+2023-02-06,Industrial Area,Vandalism,Medium
+2023-02-06,Industrial Area,Theft,Low
+2023-02-06,Industrial Area,Theft,Medium
+2023-02-06,Industrial Area,Theft,Low
+2023-02-06,Residential Zone,Burglary,High
+2023-02-06,Residential Zone,Drug Offense,Low
+2023-02-06,Residential Zone,Drug Offense,Low
+2023-02-06,Residential Zone,Drug Offense,Medium
+2023-02-06,Residential Zone,Assault,Medium
+2023-02-06,City Center,Drug Offense,Low
+2023-02-06,City Center,Theft,High
+2023-02-06,City Center,Vandalism,High
+2023-02-07,Downtown,Assault,Low
+2023-02-07,Downtown,Theft,Low
+2023-02-07,Downtown,Theft,High
+2023-02-07,Downtown,Vandalism,High
+2023-02-07,Downtown,Drug Offense,Medium
+2023-02-07,Downtown,Assault,Low
+2023-02-07,Suburb,Burglary,Medium
+2023-02-07,Suburb,Assault,Low
+2023-02-07,Industrial Area,Assault,Medium
+2023-02-07,Industrial Area,Assault,Low
+2023-02-07,Industrial Area,Assault,High
+2023-02-07,Industrial Area,Burglary,Medium
+2023-02-07,Industrial Area,Theft,High
+2023-02-07,Industrial Area,Burglary,Medium
+2023-02-07,Residential Zone,Vandalism,Low
+2023-02-07,Residential Zone,Assault,Medium
+2023-02-07,Residential Zone,Vandalism,Medium
+2023-02-07,Residential Zone,Drug Offense,High
+2023-02-07,Residential Zone,Assault,Low
+2023-02-07,City Center,Theft,High
+2023-02-07,City Center,Burglary,Medium
+2023-02-07,City Center,Burglary,Low
+2023-02-07,City Center,Vandalism,Medium
+2023-02-08,Downtown,Drug Offense,High
+2023-02-08,Downtown,Theft,High
+2023-02-08,Downtown,Theft,High
+2023-02-08,Downtown,Assault,Low
+2023-02-08,Downtown,Vandalism,Medium
+2023-02-08,Downtown,Burglary,High
+2023-02-08,Suburb,Vandalism,Low
+2023-02-08,Suburb,Vandalism,Low
+2023-02-08,Suburb,Theft,Low
+2023-02-08,Suburb,Vandalism,Medium
+2023-02-08,Suburb,Assault,Low
+2023-02-08,Suburb,Vandalism,Low
+2023-02-08,Suburb,Theft,Low
+2023-02-08,Industrial Area,Vandalism,High
+2023-02-08,Industrial Area,Vandalism,Medium
+2023-02-08,Industrial Area,Theft,Medium
+2023-02-08,Residential Zone,Drug Offense,High
+2023-02-08,Residential Zone,Burglary,High
+2023-02-08,Residential Zone,Drug Offense,High
+2023-02-08,Residential Zone,Assault,Medium
+2023-02-08,Residential Zone,Burglary,Medium
+2023-02-08,City Center,Burglary,Low
+2023-02-08,City Center,Burglary,Low
+2023-02-08,City Center,Burglary,Medium
+2023-02-09,Downtown,Assault,Low
+2023-02-09,Downtown,Vandalism,Low
+2023-02-09,Downtown,Theft,Medium
+2023-02-09,Downtown,Drug Offense,Low
+2023-02-09,Suburb,Vandalism,Low
+2023-02-09,Suburb,Vandalism,High
+2023-02-09,Suburb,Burglary,Low
+2023-02-09,Suburb,Drug Offense,High
+2023-02-09,Suburb,Theft,High
+2023-02-09,Suburb,Theft,Medium
+2023-02-09,Industrial Area,Assault,Medium
+2023-02-09,Industrial Area,Theft,High
+2023-02-09,Industrial Area,Vandalism,Medium
+2023-02-09,Industrial Area,Burglary,Medium
+2023-02-09,Residential Zone,Assault,Low
+2023-02-09,Residential Zone,Vandalism,Low
+2023-02-09,Residential Zone,Assault,Low
+2023-02-09,Residential Zone,Theft,Medium
+2023-02-09,Residential Zone,Assault,Medium
+2023-02-09,Residential Zone,Assault,Low
+2023-02-09,City Center,Assault,Low
+2023-02-09,City Center,Drug Offense,Low
+2023-02-09,City Center,Burglary,Low
+2023-02-09,City Center,Drug Offense,Low
+2023-02-09,City Center,Burglary,Medium
+2023-02-10,Downtown,Theft,Medium
+2023-02-10,Downtown,Assault,Low
+2023-02-10,Downtown,Theft,Medium
+2023-02-10,Downtown,Theft,Medium
+2023-02-10,Downtown,Assault,High
+2023-02-10,Downtown,Theft,Medium
+2023-02-10,Suburb,Vandalism,High
+2023-02-10,Suburb,Vandalism,Medium
+2023-02-10,Suburb,Theft,High
+2023-02-10,Suburb,Vandalism,Low
+2023-02-10,Suburb,Theft,Medium
+2023-02-10,Suburb,Drug Offense,Low
+2023-02-10,Suburb,Drug Offense,Low
+2023-02-10,Industrial Area,Assault,Medium
+2023-02-10,Residential Zone,Drug Offense,Medium
+2023-02-10,Residential Zone,Vandalism,Medium
+2023-02-10,Residential Zone,Theft,High
+2023-02-10,Residential Zone,Vandalism,Low
+2023-02-10,City Center,Vandalism,Low
+2023-02-11,Downtown,Drug Offense,Low
+2023-02-11,Downtown,Burglary,Low
+2023-02-11,Downtown,Burglary,High
+2023-02-11,Downtown,Assault,Low
+2023-02-11,Downtown,Drug Offense,Low
+2023-02-11,Downtown,Theft,High
+2023-02-11,Downtown,Assault,High
+2023-02-11,Suburb,Vandalism,Low
+2023-02-11,Suburb,Drug Offense,Low
+2023-02-11,Suburb,Drug Offense,Medium
+2023-02-11,Suburb,Vandalism,Medium
+2023-02-11,Suburb,Assault,Low
+2023-02-11,Suburb,Theft,Medium
+2023-02-11,Suburb,Theft,Low
+2023-02-11,Suburb,Burglary,Medium
+2023-02-11,Industrial Area,Theft,Low
+2023-02-11,Industrial Area,Vandalism,Medium
+2023-02-11,Industrial Area,Theft,Medium
+2023-02-11,Residential Zone,Theft,Medium
+2023-02-11,Residential Zone,Assault,Medium
+2023-02-11,Residential Zone,Drug Offense,Medium
+2023-02-11,Residential Zone,Drug Offense,Low
+2023-02-11,Residential Zone,Drug Offense,Low
+2023-02-11,Residential Zone,Burglary,Medium
+2023-02-11,City Center,Drug Offense,Medium
+2023-02-11,City Center,Burglary,Low
+2023-02-11,City Center,Assault,Medium
+2023-02-11,City Center,Assault,Medium
+2023-02-11,City Center,Assault,Low
+2023-02-11,City Center,Assault,Low
+2023-02-11,City Center,Theft,Low
+2023-02-11,City Center,Drug Offense,Low
+2023-02-11,City Center,Burglary,Low
+2023-02-12,Downtown,Assault,High
+2023-02-12,Suburb,Assault,Medium
+2023-02-12,Suburb,Vandalism,Medium
+2023-02-12,Suburb,Assault,Low
+2023-02-12,Suburb,Burglary,Medium
+2023-02-12,Industrial Area,Theft,Low
+2023-02-12,Industrial Area,Theft,Medium
+2023-02-12,Industrial Area,Vandalism,Low
+2023-02-12,Industrial Area,Vandalism,Low
+2023-02-12,Residential Zone,Assault,Medium
+2023-02-12,Residential Zone,Assault,Medium
+2023-02-12,Residential Zone,Drug Offense,Medium
+2023-02-12,Residential Zone,Burglary,Medium
+2023-02-12,Residential Zone,Theft,Medium
+2023-02-12,Residential Zone,Vandalism,Medium
+2023-02-12,Residential Zone,Vandalism,Low
+2023-02-12,City Center,Drug Offense,Medium
+2023-02-12,City Center,Theft,Low
+2023-02-12,City Center,Drug Offense,Low
+2023-02-12,City Center,Vandalism,Medium
+2023-02-12,City Center,Theft,Low
+2023-02-12,City Center,Assault,Medium
+2023-02-12,City Center,Burglary,Low
+2023-02-12,City Center,Burglary,Low
+2023-02-12,City Center,Assault,Low
+2023-02-12,City Center,Assault,Low
+2023-02-13,Downtown,Vandalism,High
+2023-02-13,Downtown,Burglary,Medium
+2023-02-13,Downtown,Vandalism,Low
+2023-02-13,Downtown,Vandalism,Medium
+2023-02-13,Downtown,Vandalism,Low
+2023-02-13,Downtown,Vandalism,Low
+2023-02-13,Suburb,Drug Offense,Low
+2023-02-13,Suburb,Drug Offense,High
+2023-02-13,Suburb,Burglary,Medium
+2023-02-13,Suburb,Assault,Medium
+2023-02-13,Suburb,Theft,High
+2023-02-13,Suburb,Theft,High
+2023-02-13,Suburb,Theft,High
+2023-02-13,Suburb,Burglary,Low
+2023-02-13,Suburb,Theft,Low
+2023-02-13,Industrial Area,Vandalism,High
+2023-02-13,Industrial Area,Drug Offense,Medium
+2023-02-13,Residential Zone,Burglary,Medium
+2023-02-13,Residential Zone,Vandalism,Low
+2023-02-13,Residential Zone,Theft,Low
+2023-02-13,Residential Zone,Theft,Medium
+2023-02-13,City Center,Theft,High
+2023-02-13,City Center,Theft,High
+2023-02-13,City Center,Vandalism,Medium
+2023-02-13,City Center,Theft,Low
+2023-02-13,City Center,Drug Offense,High
+2023-02-13,City Center,Vandalism,High
+2023-02-13,City Center,Burglary,Medium
+2023-02-13,City Center,Assault,Medium
+2023-02-14,Downtown,Theft,Medium
+2023-02-14,Downtown,Assault,Low
+2023-02-14,Downtown,Theft,Medium
+2023-02-14,Downtown,Vandalism,Low
+2023-02-14,Downtown,Vandalism,Low
+2023-02-14,Downtown,Burglary,Medium
+2023-02-14,Downtown,Drug Offense,High
+2023-02-14,Suburb,Theft,Medium
+2023-02-14,Suburb,Vandalism,Low
+2023-02-14,Industrial Area,Vandalism,Low
+2023-02-14,Industrial Area,Vandalism,Low
+2023-02-14,Industrial Area,Burglary,Low
+2023-02-14,Industrial Area,Vandalism,High
+2023-02-14,Industrial Area,Theft,Low
+2023-02-14,Industrial Area,Drug Offense,High
+2023-02-14,Industrial Area,Theft,Medium
+2023-02-14,Industrial Area,Assault,High
+2023-02-14,Industrial Area,Vandalism,Low
+2023-02-14,Residential Zone,Vandalism,High
+2023-02-14,Residential Zone,Burglary,High
+2023-02-14,Residential Zone,Theft,Medium
+2023-02-14,Residential Zone,Burglary,Low
+2023-02-14,Residential Zone,Vandalism,Low
+2023-02-14,Residential Zone,Theft,Low
+2023-02-14,Residential Zone,Burglary,Low
+2023-02-14,City Center,Vandalism,Low
+2023-02-14,City Center,Theft,Low
+2023-02-14,City Center,Drug Offense,Low
+2023-02-14,City Center,Vandalism,High
+2023-02-15,Downtown,Vandalism,Low
+2023-02-15,Downtown,Burglary,High
+2023-02-15,Downtown,Theft,Medium
+2023-02-15,Downtown,Drug Offense,Low
+2023-02-15,Suburb,Vandalism,Low
+2023-02-15,Suburb,Assault,Low
+2023-02-15,Suburb,Burglary,High
+2023-02-15,Industrial Area,Theft,High
+2023-02-15,Industrial Area,Assault,High
+2023-02-15,Industrial Area,Drug Offense,High
+2023-02-15,Industrial Area,Assault,High
+2023-02-15,Residential Zone,Assault,Low
+2023-02-15,Residential Zone,Vandalism,Medium
+2023-02-15,City Center,Theft,Medium
+2023-02-15,City Center,Drug Offense,High
+2023-02-15,City Center,Assault,Low
+2023-02-15,City Center,Theft,Medium
+2023-02-16,Downtown,Vandalism,Low
+2023-02-16,Downtown,Theft,Low
+2023-02-16,Downtown,Drug Offense,Low
+2023-02-16,Downtown,Drug Offense,Medium
+2023-02-16,Downtown,Assault,Medium
+2023-02-16,Downtown,Theft,High
+2023-02-16,Downtown,Theft,Low
+2023-02-16,Suburb,Drug Offense,High
+2023-02-16,Suburb,Vandalism,Low
+2023-02-16,Suburb,Burglary,Medium
+2023-02-16,Suburb,Vandalism,Low
+2023-02-16,Industrial Area,Burglary,High
+2023-02-16,Industrial Area,Theft,Low
+2023-02-16,Industrial Area,Theft,Medium
+2023-02-16,Industrial Area,Drug Offense,Low
+2023-02-16,Residential Zone,Burglary,Low
+2023-02-16,Residential Zone,Drug Offense,Medium
+2023-02-16,Residential Zone,Assault,Medium
+2023-02-16,Residential Zone,Vandalism,Medium
+2023-02-16,Residential Zone,Vandalism,Medium
+2023-02-16,Residential Zone,Drug Offense,Low
+2023-02-16,Residential Zone,Vandalism,Low
+2023-02-16,City Center,Theft,Low
+2023-02-16,City Center,Assault,Medium
+2023-02-16,City Center,Burglary,Low
+2023-02-16,City Center,Theft,Medium
+2023-02-16,City Center,Assault,Low
+2023-02-16,City Center,Burglary,Medium
+2023-02-16,City Center,Drug Offense,High
+2023-02-16,City Center,Burglary,Low
+2023-02-16,City Center,Drug Offense,High
+2023-02-16,City Center,Assault,Low
+2023-02-17,Downtown,Vandalism,Medium
+2023-02-17,Downtown,Theft,Low
+2023-02-17,Downtown,Vandalism,High
+2023-02-17,Downtown,Drug Offense,High
+2023-02-17,Suburb,Assault,Medium
+2023-02-17,Suburb,Vandalism,High
+2023-02-17,Suburb,Burglary,Low
+2023-02-17,Suburb,Theft,High
+2023-02-17,Industrial Area,Theft,Low
+2023-02-17,Industrial Area,Vandalism,Low
+2023-02-17,Industrial Area,Drug Offense,Low
+2023-02-17,Industrial Area,Burglary,Low
+2023-02-17,Industrial Area,Burglary,High
+2023-02-17,Industrial Area,Vandalism,Medium
+2023-02-17,Residential Zone,Vandalism,High
+2023-02-17,Residential Zone,Vandalism,Low
+2023-02-17,Residential Zone,Burglary,High
+2023-02-17,Residential Zone,Burglary,High
+2023-02-17,Residential Zone,Vandalism,Low
+2023-02-17,City Center,Burglary,Medium
+2023-02-17,City Center,Vandalism,High
+2023-02-17,City Center,Drug Offense,Medium
+2023-02-18,Downtown,Drug Offense,Medium
+2023-02-18,Downtown,Burglary,Medium
+2023-02-18,Downtown,Assault,Low
+2023-02-18,Downtown,Vandalism,Medium
+2023-02-18,Downtown,Vandalism,Medium
+2023-02-18,Suburb,Theft,High
+2023-02-18,Suburb,Drug Offense,Low
+2023-02-18,Suburb,Drug Offense,Low
+2023-02-18,Suburb,Theft,High
+2023-02-18,Suburb,Drug Offense,Low
+2023-02-18,Suburb,Theft,Medium
+2023-02-18,Suburb,Assault,Medium
+2023-02-18,Industrial Area,Assault,Low
+2023-02-18,Industrial Area,Burglary,Low
+2023-02-18,Industrial Area,Burglary,Low
+2023-02-18,Industrial Area,Vandalism,Low
+2023-02-18,Industrial Area,Assault,Low
+2023-02-18,Industrial Area,Drug Offense,Medium
+2023-02-18,Industrial Area,Assault,Low
+2023-02-18,Industrial Area,Burglary,Low
+2023-02-18,Residential Zone,Assault,High
+2023-02-18,Residential Zone,Drug Offense,High
+2023-02-18,Residential Zone,Drug Offense,Medium
+2023-02-18,Residential Zone,Drug Offense,Low
+2023-02-18,Residential Zone,Assault,Low
+2023-02-18,Residential Zone,Theft,Low
+2023-02-18,Residential Zone,Drug Offense,High
+2023-02-18,City Center,Vandalism,Low
+2023-02-18,City Center,Theft,Medium
+2023-02-18,City Center,Burglary,Low
+2023-02-19,Downtown,Theft,Low
+2023-02-19,Downtown,Theft,Low
+2023-02-19,Downtown,Theft,Low
+2023-02-19,Downtown,Vandalism,High
+2023-02-19,Downtown,Drug Offense,Low
+2023-02-19,Downtown,Theft,High
+2023-02-19,Suburb,Vandalism,Medium
+2023-02-19,Suburb,Vandalism,High
+2023-02-19,Suburb,Vandalism,Low
+2023-02-19,Suburb,Vandalism,Medium
+2023-02-19,Suburb,Burglary,Medium
+2023-02-19,Industrial Area,Theft,Low
+2023-02-19,Industrial Area,Burglary,Low
+2023-02-19,Industrial Area,Drug Offense,Low
+2023-02-19,Industrial Area,Vandalism,Low
+2023-02-19,Industrial Area,Drug Offense,Medium
+2023-02-19,Industrial Area,Burglary,Low
+2023-02-19,Industrial Area,Vandalism,Low
+2023-02-19,Industrial Area,Burglary,High
+2023-02-19,Industrial Area,Burglary,Medium
+2023-02-19,Residential Zone,Theft,High
+2023-02-19,Residential Zone,Theft,High
+2023-02-19,Residential Zone,Vandalism,Low
+2023-02-19,City Center,Theft,Low
+2023-02-19,City Center,Burglary,Low
+2023-02-19,City Center,Vandalism,Low
+2023-02-19,City Center,Assault,Low
+2023-02-19,City Center,Theft,High
+2023-02-20,Downtown,Assault,Low
+2023-02-20,Downtown,Drug Offense,Medium
+2023-02-20,Downtown,Assault,Medium
+2023-02-20,Downtown,Burglary,Low
+2023-02-20,Suburb,Theft,Medium
+2023-02-20,Suburb,Burglary,Low
+2023-02-20,Industrial Area,Burglary,High
+2023-02-20,Industrial Area,Burglary,High
+2023-02-20,Industrial Area,Theft,Low
+2023-02-20,Industrial Area,Assault,Low
+2023-02-20,Industrial Area,Theft,Low
+2023-02-20,Residential Zone,Vandalism,Low
+2023-02-20,City Center,Burglary,Low
+2023-02-20,City Center,Theft,Medium
+2023-02-20,City Center,Vandalism,Low
+2023-02-20,City Center,Theft,High
+2023-02-21,Downtown,Vandalism,Low
+2023-02-21,Downtown,Vandalism,Low
+2023-02-21,Downtown,Burglary,Medium
+2023-02-21,Downtown,Vandalism,Low
+2023-02-21,Suburb,Burglary,Low
+2023-02-21,Suburb,Drug Offense,Medium
+2023-02-21,Suburb,Vandalism,Medium
+2023-02-21,Suburb,Assault,Low
+2023-02-21,Industrial Area,Vandalism,Medium
+2023-02-21,Industrial Area,Theft,Medium
+2023-02-21,Industrial Area,Drug Offense,Low
+2023-02-21,Residential Zone,Theft,Low
+2023-02-21,Residential Zone,Vandalism,Medium
+2023-02-21,Residential Zone,Assault,Low
+2023-02-21,Residential Zone,Vandalism,Low
+2023-02-21,City Center,Vandalism,Low
+2023-02-21,City Center,Burglary,Low
+2023-02-21,City Center,Assault,Low
+2023-02-22,Downtown,Vandalism,Medium
+2023-02-22,Downtown,Drug Offense,Low
+2023-02-22,Downtown,Assault,Low
+2023-02-22,Downtown,Drug Offense,Medium
+2023-02-22,Downtown,Burglary,Medium
+2023-02-22,Downtown,Vandalism,Low
+2023-02-22,Downtown,Assault,Low
+2023-02-22,Downtown,Assault,Medium
+2023-02-22,Downtown,Drug Offense,Medium
+2023-02-22,Downtown,Burglary,Medium
+2023-02-22,Suburb,Theft,High
+2023-02-22,Suburb,Vandalism,Low
+2023-02-22,Suburb,Theft,Medium
+2023-02-22,Industrial Area,Vandalism,High
+2023-02-22,Industrial Area,Assault,Medium
+2023-02-22,Industrial Area,Assault,Medium
+2023-02-22,Industrial Area,Drug Offense,Medium
+2023-02-22,Industrial Area,Drug Offense,Medium
+2023-02-22,Industrial Area,Vandalism,Medium
+2023-02-22,Residential Zone,Assault,Low
+2023-02-22,Residential Zone,Assault,Medium
+2023-02-22,Residential Zone,Assault,Low
+2023-02-22,Residential Zone,Vandalism,Low
+2023-02-22,City Center,Drug Offense,Low
+2023-02-22,City Center,Drug Offense,Medium
+2023-02-22,City Center,Burglary,High
+2023-02-22,City Center,Vandalism,Low
+2023-02-22,City Center,Vandalism,High
+2023-02-22,City Center,Drug Offense,High
+2023-02-22,City Center,Assault,Low
+2023-02-22,City Center,Drug Offense,Medium
+2023-02-22,City Center,Burglary,Medium
+2023-02-23,Downtown,Theft,Medium
+2023-02-23,Downtown,Vandalism,Low
+2023-02-23,Downtown,Drug Offense,High
+2023-02-23,Downtown,Drug Offense,Low
+2023-02-23,Suburb,Drug Offense,High
+2023-02-23,Suburb,Theft,Low
+2023-02-23,Suburb,Theft,Low
+2023-02-23,Suburb,Theft,Low
+2023-02-23,Industrial Area,Drug Offense,High
+2023-02-23,Residential Zone,Drug Offense,High
+2023-02-23,Residential Zone,Theft,Low
+2023-02-23,Residential Zone,Assault,Low
+2023-02-23,Residential Zone,Theft,High
+2023-02-23,City Center,Vandalism,Medium
+2023-02-23,City Center,Assault,Low
+2023-02-23,City Center,Drug Offense,Low
+2023-02-24,Downtown,Theft,Medium
+2023-02-24,Downtown,Vandalism,Medium
+2023-02-24,Downtown,Drug Offense,Low
+2023-02-24,Downtown,Vandalism,Low
+2023-02-24,Downtown,Theft,Medium
+2023-02-24,Suburb,Vandalism,Low
+2023-02-24,Suburb,Drug Offense,Medium
+2023-02-24,Industrial Area,Theft,Low
+2023-02-24,Industrial Area,Assault,Low
+2023-02-24,Industrial Area,Theft,High
+2023-02-24,Industrial Area,Theft,Medium
+2023-02-24,Residential Zone,Theft,Low
+2023-02-24,Residential Zone,Vandalism,Low
+2023-02-24,Residential Zone,Burglary,Low
+2023-02-24,Residential Zone,Theft,High
+2023-02-24,City Center,Vandalism,Low
+2023-02-24,City Center,Drug Offense,Medium
+2023-02-24,City Center,Drug Offense,Low
+2023-02-24,City Center,Assault,High
+2023-02-24,City Center,Drug Offense,Medium
+2023-02-24,City Center,Assault,High
+2023-02-25,Downtown,Theft,High
+2023-02-25,Downtown,Burglary,High
+2023-02-25,Downtown,Drug Offense,Low
+2023-02-25,Downtown,Vandalism,Low
+2023-02-25,Downtown,Theft,Medium
+2023-02-25,Downtown,Assault,Low
+2023-02-25,Downtown,Vandalism,Low
+2023-02-25,Suburb,Vandalism,Low
+2023-02-25,Suburb,Assault,High
+2023-02-25,Suburb,Assault,High
+2023-02-25,Suburb,Assault,Low
+2023-02-25,Suburb,Assault,Medium
+2023-02-25,Industrial Area,Burglary,Low
+2023-02-25,Industrial Area,Vandalism,Low
+2023-02-25,Industrial Area,Burglary,Low
+2023-02-25,Industrial Area,Burglary,High
+2023-02-25,Residential Zone,Assault,Low
+2023-02-25,Residential Zone,Vandalism,High
+2023-02-25,Residential Zone,Theft,Low
+2023-02-25,Residential Zone,Theft,Low
+2023-02-25,Residential Zone,Drug Offense,Low
+2023-02-25,City Center,Drug Offense,Low
+2023-02-25,City Center,Drug Offense,Low
+2023-02-25,City Center,Burglary,High
+2023-02-25,City Center,Burglary,Low
+2023-02-25,City Center,Vandalism,Low
+2023-02-25,City Center,Theft,Medium
+2023-02-25,City Center,Drug Offense,Low
+2023-02-25,City Center,Burglary,Low
+2023-02-26,Downtown,Drug Offense,Low
+2023-02-26,Downtown,Drug Offense,Low
+2023-02-26,Downtown,Vandalism,Low
+2023-02-26,Downtown,Vandalism,Low
+2023-02-26,Suburb,Burglary,Low
+2023-02-26,Suburb,Theft,Medium
+2023-02-26,Suburb,Assault,Medium
+2023-02-26,Suburb,Burglary,High
+2023-02-26,Suburb,Burglary,Medium
+2023-02-26,Industrial Area,Drug Offense,High
+2023-02-26,Industrial Area,Drug Offense,Medium
+2023-02-26,Industrial Area,Burglary,Low
+2023-02-26,Industrial Area,Theft,Low
+2023-02-26,Industrial Area,Burglary,Low
+2023-02-26,Industrial Area,Drug Offense,Low
+2023-02-26,Industrial Area,Theft,Low
+2023-02-26,Residential Zone,Drug Offense,High
+2023-02-26,Residential Zone,Theft,Low
+2023-02-26,City Center,Drug Offense,Medium
+2023-02-26,City Center,Drug Offense,High
+2023-02-26,City Center,Assault,Medium
+2023-02-27,Downtown,Burglary,Low
+2023-02-27,Downtown,Assault,Medium
+2023-02-27,Suburb,Vandalism,High
+2023-02-27,Suburb,Vandalism,Low
+2023-02-27,Suburb,Assault,Low
+2023-02-27,Suburb,Theft,Medium
+2023-02-27,Industrial Area,Vandalism,Low
+2023-02-27,Industrial Area,Vandalism,Low
+2023-02-27,Industrial Area,Vandalism,Medium
+2023-02-27,Residential Zone,Assault,Low
+2023-02-27,Residential Zone,Assault,Low
+2023-02-27,Residential Zone,Theft,High
+2023-02-27,City Center,Vandalism,Low
+2023-02-27,City Center,Burglary,Medium
+2023-02-27,City Center,Drug Offense,Low
+2023-02-27,City Center,Vandalism,Low
+2023-02-28,Downtown,Assault,Medium
+2023-02-28,Downtown,Theft,High
+2023-02-28,Downtown,Theft,Low
+2023-02-28,Downtown,Vandalism,Low
+2023-02-28,Downtown,Theft,Low
+2023-02-28,Downtown,Vandalism,High
+2023-02-28,Downtown,Drug Offense,Low
+2023-02-28,Suburb,Vandalism,Medium
+2023-02-28,Suburb,Vandalism,High
+2023-02-28,Suburb,Vandalism,Medium
+2023-02-28,Suburb,Drug Offense,Low
+2023-02-28,Suburb,Drug Offense,High
+2023-02-28,Suburb,Assault,Low
+2023-02-28,Suburb,Theft,Medium
+2023-02-28,Industrial Area,Assault,Low
+2023-02-28,Industrial Area,Theft,Medium
+2023-02-28,Industrial Area,Burglary,Low
+2023-02-28,Industrial Area,Theft,Low
+2023-02-28,Industrial Area,Burglary,Low
+2023-02-28,Residential Zone,Assault,Low
+2023-02-28,Residential Zone,Drug Offense,High
+2023-02-28,Residential Zone,Vandalism,Medium
+2023-02-28,Residential Zone,Assault,Low
+2023-02-28,Residential Zone,Burglary,Low
+2023-02-28,Residential Zone,Theft,Low
+2023-02-28,City Center,Theft,Low
+2023-02-28,City Center,Theft,Medium
+2023-02-28,City Center,Assault,Low
+2023-02-28,City Center,Drug Offense,Low
+2023-03-01,Downtown,Burglary,Medium
+2023-03-01,Downtown,Theft,Medium
+2023-03-01,Downtown,Theft,Low
+2023-03-01,Downtown,Burglary,Low
+2023-03-01,Suburb,Drug Offense,Medium
+2023-03-01,Suburb,Drug Offense,Low
+2023-03-01,Suburb,Assault,Low
+2023-03-01,Industrial Area,Vandalism,Low
+2023-03-01,Industrial Area,Drug Offense,High
+2023-03-01,Industrial Area,Vandalism,Medium
+2023-03-01,Residential Zone,Vandalism,Medium
+2023-03-01,Residential Zone,Drug Offense,Medium
+2023-03-01,Residential Zone,Burglary,High
+2023-03-01,Residential Zone,Drug Offense,High
+2023-03-01,City Center,Assault,Low
+2023-03-01,City Center,Theft,Low
+2023-03-01,City Center,Drug Offense,Low
+2023-03-01,City Center,Vandalism,Medium
+2023-03-01,City Center,Vandalism,Low
+2023-03-02,Downtown,Drug Offense,High
+2023-03-02,Downtown,Burglary,Medium
+2023-03-02,Downtown,Assault,Low
+2023-03-02,Downtown,Vandalism,Low
+2023-03-02,Downtown,Assault,Low
+2023-03-02,Downtown,Assault,Medium
+2023-03-02,Suburb,Drug Offense,Low
+2023-03-02,Suburb,Theft,Low
+2023-03-02,Suburb,Assault,Low
+2023-03-02,Suburb,Assault,Low
+2023-03-02,Suburb,Theft,High
+2023-03-02,Industrial Area,Theft,Low
+2023-03-02,Industrial Area,Vandalism,Medium
+2023-03-02,Industrial Area,Theft,High
+2023-03-02,Industrial Area,Drug Offense,High
+2023-03-02,Residential Zone,Burglary,Low
+2023-03-02,Residential Zone,Burglary,Low
+2023-03-02,Residential Zone,Theft,High
+2023-03-02,Residential Zone,Theft,High
+2023-03-02,Residential Zone,Drug Offense,Medium
+2023-03-02,Residential Zone,Theft,High
+2023-03-02,Residential Zone,Vandalism,Low
+2023-03-02,Residential Zone,Theft,High
+2023-03-02,City Center,Theft,High
+2023-03-02,City Center,Vandalism,Low
+2023-03-02,City Center,Theft,High
+2023-03-02,City Center,Drug Offense,Medium
+2023-03-02,City Center,Vandalism,Medium
+2023-03-02,City Center,Theft,Medium
+2023-03-03,Downtown,Assault,Low
+2023-03-03,Downtown,Vandalism,Low
+2023-03-03,Downtown,Burglary,Low
+2023-03-03,Downtown,Burglary,Low
+2023-03-03,Downtown,Theft,Medium
+2023-03-03,Downtown,Vandalism,Low
+2023-03-03,Downtown,Theft,Medium
+2023-03-03,Downtown,Drug Offense,Low
+2023-03-03,Suburb,Assault,Low
+2023-03-03,Suburb,Burglary,Low
+2023-03-03,Suburb,Vandalism,Medium
+2023-03-03,Industrial Area,Drug Offense,Low
+2023-03-03,Industrial Area,Theft,Low
+2023-03-03,Industrial Area,Assault,Low
+2023-03-03,Residential Zone,Burglary,Low
+2023-03-03,Residential Zone,Vandalism,Medium
+2023-03-03,Residential Zone,Burglary,Medium
+2023-03-03,Residential Zone,Assault,High
+2023-03-03,Residential Zone,Drug Offense,Low
+2023-03-03,Residential Zone,Theft,Low
+2023-03-03,Residential Zone,Assault,Low
+2023-03-03,Residential Zone,Assault,Low
+2023-03-03,City Center,Assault,Low
+2023-03-03,City Center,Vandalism,Low
+2023-03-03,City Center,Theft,Low
+2023-03-03,City Center,Assault,Medium
+2023-03-03,City Center,Assault,Medium
+2023-03-03,City Center,Vandalism,High
+2023-03-03,City Center,Burglary,Low
+2023-03-03,City Center,Burglary,Low
+2023-03-04,Downtown,Theft,Low
+2023-03-04,Downtown,Burglary,Low
+2023-03-04,Downtown,Theft,High
+2023-03-04,Downtown,Burglary,High
+2023-03-04,Downtown,Burglary,Medium
+2023-03-04,Downtown,Assault,High
+2023-03-04,Downtown,Theft,Low
+2023-03-04,Suburb,Vandalism,High
+2023-03-04,Suburb,Assault,High
+2023-03-04,Suburb,Assault,Low
+2023-03-04,Suburb,Theft,Low
+2023-03-04,Suburb,Assault,Low
+2023-03-04,Industrial Area,Burglary,Low
+2023-03-04,Industrial Area,Assault,Low
+2023-03-04,Industrial Area,Assault,High
+2023-03-04,Industrial Area,Theft,Medium
+2023-03-04,Industrial Area,Theft,Low
+2023-03-04,Industrial Area,Burglary,High
+2023-03-04,Residential Zone,Theft,Low
+2023-03-04,Residential Zone,Drug Offense,High
+2023-03-04,Residential Zone,Vandalism,Low
+2023-03-04,City Center,Assault,High
+2023-03-04,City Center,Vandalism,Medium
+2023-03-04,City Center,Vandalism,Low
+2023-03-04,City Center,Drug Offense,Low
+2023-03-05,Downtown,Drug Offense,High
+2023-03-05,Downtown,Assault,Medium
+2023-03-05,Downtown,Drug Offense,Low
+2023-03-05,Downtown,Theft,Low
+2023-03-05,Suburb,Vandalism,High
+2023-03-05,Suburb,Assault,Low
+2023-03-05,Industrial Area,Drug Offense,Low
+2023-03-05,Industrial Area,Theft,Low
+2023-03-05,Industrial Area,Burglary,Low
+2023-03-05,Industrial Area,Assault,High
+2023-03-05,Industrial Area,Theft,High
+2023-03-05,Residential Zone,Theft,Low
+2023-03-05,Residential Zone,Burglary,Medium
+2023-03-05,Residential Zone,Vandalism,Medium
+2023-03-05,Residential Zone,Assault,Medium
+2023-03-05,Residential Zone,Theft,Medium
+2023-03-05,Residential Zone,Theft,High
+2023-03-05,Residential Zone,Burglary,Low
+2023-03-05,Residential Zone,Burglary,High
+2023-03-05,Residential Zone,Assault,Medium
+2023-03-05,Residential Zone,Burglary,Low
+2023-03-05,Residential Zone,Burglary,Medium
+2023-03-05,City Center,Assault,Low
+2023-03-05,City Center,Drug Offense,High
+2023-03-06,Downtown,Burglary,High
+2023-03-06,Downtown,Burglary,Medium
+2023-03-06,Downtown,Drug Offense,Low
+2023-03-06,Downtown,Drug Offense,Medium
+2023-03-06,Suburb,Assault,High
+2023-03-06,Suburb,Drug Offense,Low
+2023-03-06,Suburb,Burglary,Medium
+2023-03-06,Suburb,Theft,Low
+2023-03-06,Industrial Area,Burglary,Low
+2023-03-06,Industrial Area,Burglary,Low
+2023-03-06,Industrial Area,Assault,Low
+2023-03-06,Industrial Area,Drug Offense,Low
+2023-03-06,Residential Zone,Vandalism,High
+2023-03-06,Residential Zone,Drug Offense,Medium
+2023-03-06,Residential Zone,Assault,Low
+2023-03-06,Residential Zone,Burglary,Low
+2023-03-06,Residential Zone,Burglary,Medium
+2023-03-06,Residential Zone,Vandalism,Medium
+2023-03-06,Residential Zone,Vandalism,Low
+2023-03-06,Residential Zone,Assault,Low
+2023-03-06,Residential Zone,Burglary,Low
+2023-03-06,Residential Zone,Assault,Medium
+2023-03-06,City Center,Drug Offense,Medium
+2023-03-06,City Center,Burglary,Medium
+2023-03-06,City Center,Drug Offense,Low
+2023-03-06,City Center,Vandalism,Low
+2023-03-06,City Center,Burglary,High
+2023-03-06,City Center,Drug Offense,Medium
+2023-03-06,City Center,Vandalism,Medium
+2023-03-06,City Center,Vandalism,Medium
+2023-03-07,Downtown,Vandalism,Low
+2023-03-07,Downtown,Vandalism,High
+2023-03-07,Downtown,Drug Offense,Low
+2023-03-07,Downtown,Theft,Low
+2023-03-07,Downtown,Theft,High
+2023-03-07,Downtown,Drug Offense,Medium
+2023-03-07,Downtown,Theft,Medium
+2023-03-07,Suburb,Assault,Medium
+2023-03-07,Suburb,Drug Offense,High
+2023-03-07,Suburb,Burglary,Medium
+2023-03-07,Suburb,Theft,Low
+2023-03-07,Suburb,Burglary,High
+2023-03-07,Industrial Area,Assault,Medium
+2023-03-07,Industrial Area,Theft,Low
+2023-03-07,Industrial Area,Vandalism,Low
+2023-03-07,Residential Zone,Burglary,Medium
+2023-03-07,Residential Zone,Drug Offense,Medium
+2023-03-07,Residential Zone,Assault,Medium
+2023-03-07,Residential Zone,Assault,Low
+2023-03-07,Residential Zone,Burglary,Low
+2023-03-07,City Center,Vandalism,Medium
+2023-03-07,City Center,Burglary,Low
+2023-03-07,City Center,Drug Offense,Low
+2023-03-07,City Center,Vandalism,High
+2023-03-08,Downtown,Vandalism,Low
+2023-03-08,Downtown,Burglary,High
+2023-03-08,Downtown,Burglary,Low
+2023-03-08,Suburb,Drug Offense,Low
+2023-03-08,Suburb,Assault,Low
+2023-03-08,Suburb,Vandalism,Low
+2023-03-08,Suburb,Vandalism,Low
+2023-03-08,Industrial Area,Burglary,Low
+2023-03-08,Industrial Area,Burglary,Low
+2023-03-08,Industrial Area,Drug Offense,Medium
+2023-03-08,Residential Zone,Vandalism,Low
+2023-03-08,Residential Zone,Burglary,Low
+2023-03-08,Residential Zone,Burglary,Low
+2023-03-08,Residential Zone,Drug Offense,High
+2023-03-08,City Center,Assault,Low
+2023-03-08,City Center,Theft,Medium
+2023-03-08,City Center,Theft,Low
+2023-03-08,City Center,Theft,Low
+2023-03-08,City Center,Assault,Low
+2023-03-08,City Center,Burglary,Low
+2023-03-09,Downtown,Burglary,Medium
+2023-03-09,Downtown,Burglary,Low
+2023-03-09,Downtown,Vandalism,Medium
+2023-03-09,Downtown,Drug Offense,Medium
+2023-03-09,Downtown,Burglary,Low
+2023-03-09,Downtown,Burglary,High
+2023-03-09,Downtown,Vandalism,Low
+2023-03-09,Suburb,Burglary,Low
+2023-03-09,Suburb,Vandalism,Medium
+2023-03-09,Suburb,Vandalism,Medium
+2023-03-09,Suburb,Assault,Low
+2023-03-09,Suburb,Vandalism,Medium
+2023-03-09,Suburb,Drug Offense,High
+2023-03-09,Suburb,Drug Offense,Low
+2023-03-09,Suburb,Drug Offense,Low
+2023-03-09,Industrial Area,Burglary,High
+2023-03-09,Industrial Area,Assault,Low
+2023-03-09,Industrial Area,Vandalism,Low
+2023-03-09,Industrial Area,Vandalism,Low
+2023-03-09,Industrial Area,Theft,Low
+2023-03-09,Industrial Area,Burglary,Medium
+2023-03-09,Industrial Area,Burglary,Low
+2023-03-09,Industrial Area,Burglary,Low
+2023-03-09,Residential Zone,Drug Offense,Low
+2023-03-09,Residential Zone,Theft,Low
+2023-03-09,Residential Zone,Vandalism,High
+2023-03-09,Residential Zone,Vandalism,High
+2023-03-09,Residential Zone,Vandalism,Low
+2023-03-09,Residential Zone,Drug Offense,Low
+2023-03-09,Residential Zone,Drug Offense,High
+2023-03-09,Residential Zone,Theft,High
+2023-03-09,City Center,Vandalism,Low
+2023-03-09,City Center,Vandalism,Low
+2023-03-09,City Center,Burglary,Low
+2023-03-09,City Center,Burglary,Low
+2023-03-09,City Center,Theft,Low
+2023-03-10,Downtown,Burglary,High
+2023-03-10,Downtown,Theft,Medium
+2023-03-10,Downtown,Assault,Medium
+2023-03-10,Downtown,Assault,Medium
+2023-03-10,Downtown,Theft,Low
+2023-03-10,Downtown,Vandalism,Low
+2023-03-10,Downtown,Theft,Medium
+2023-03-10,Suburb,Drug Offense,Low
+2023-03-10,Suburb,Vandalism,Low
+2023-03-10,Suburb,Drug Offense,Low
+2023-03-10,Industrial Area,Vandalism,Low
+2023-03-10,Industrial Area,Vandalism,High
+2023-03-10,Industrial Area,Vandalism,Low
+2023-03-10,Industrial Area,Vandalism,Low
+2023-03-10,Industrial Area,Theft,High
+2023-03-10,Industrial Area,Drug Offense,Low
+2023-03-10,Industrial Area,Burglary,Low
+2023-03-10,Residential Zone,Theft,High
+2023-03-10,Residential Zone,Theft,Medium
+2023-03-10,City Center,Assault,Medium
+2023-03-10,City Center,Assault,Low
+2023-03-10,City Center,Vandalism,Medium
+2023-03-10,City Center,Theft,Low
+2023-03-11,Downtown,Assault,Medium
+2023-03-11,Downtown,Theft,Medium
+2023-03-11,Suburb,Assault,High
+2023-03-11,Suburb,Drug Offense,Medium
+2023-03-11,Suburb,Assault,Low
+2023-03-11,Suburb,Assault,High
+2023-03-11,Suburb,Theft,High
+2023-03-11,Suburb,Theft,Low
+2023-03-11,Suburb,Theft,Medium
+2023-03-11,Suburb,Drug Offense,Medium
+2023-03-11,Suburb,Vandalism,Low
+2023-03-11,Industrial Area,Assault,Low
+2023-03-11,Industrial Area,Burglary,High
+2023-03-11,Industrial Area,Burglary,High
+2023-03-11,Industrial Area,Vandalism,Medium
+2023-03-11,Industrial Area,Theft,Low
+2023-03-11,Residential Zone,Assault,High
+2023-03-11,Residential Zone,Vandalism,High
+2023-03-11,Residential Zone,Drug Offense,Low
+2023-03-11,Residential Zone,Theft,Low
+2023-03-11,Residential Zone,Drug Offense,Medium
+2023-03-11,Residential Zone,Assault,Medium
+2023-03-11,Residential Zone,Burglary,Low
+2023-03-11,Residential Zone,Theft,Low
+2023-03-11,City Center,Vandalism,Medium
+2023-03-11,City Center,Drug Offense,Low
+2023-03-11,City Center,Assault,Low
+2023-03-11,City Center,Theft,Low
+2023-03-11,City Center,Vandalism,Medium
+2023-03-11,City Center,Theft,Medium
+2023-03-11,City Center,Theft,Low
+2023-03-12,Downtown,Assault,High
+2023-03-12,Downtown,Theft,High
+2023-03-12,Downtown,Drug Offense,Medium
+2023-03-12,Downtown,Vandalism,High
+2023-03-12,Downtown,Assault,High
+2023-03-12,Downtown,Burglary,Medium
+2023-03-12,Suburb,Assault,Low
+2023-03-12,Suburb,Assault,Low
+2023-03-12,Suburb,Burglary,Low
+2023-03-12,Suburb,Burglary,Low
+2023-03-12,Industrial Area,Theft,Medium
+2023-03-12,Industrial Area,Burglary,Low
+2023-03-12,Industrial Area,Drug Offense,Medium
+2023-03-12,Industrial Area,Burglary,High
+2023-03-12,Industrial Area,Burglary,Low
+2023-03-12,Industrial Area,Theft,High
+2023-03-12,Industrial Area,Burglary,Low
+2023-03-12,Residential Zone,Burglary,Low
+2023-03-12,Residential Zone,Assault,Low
+2023-03-12,Residential Zone,Theft,Low
+2023-03-12,City Center,Theft,Low
+2023-03-12,City Center,Vandalism,Low
+2023-03-12,City Center,Drug Offense,High
+2023-03-12,City Center,Drug Offense,Low
+2023-03-12,City Center,Assault,Low
+2023-03-12,City Center,Assault,Low
+2023-03-12,City Center,Assault,High
+2023-03-13,Downtown,Theft,Low
+2023-03-13,Downtown,Burglary,High
+2023-03-13,Downtown,Drug Offense,Medium
+2023-03-13,Downtown,Drug Offense,Low
+2023-03-13,Downtown,Drug Offense,Medium
+2023-03-13,Suburb,Drug Offense,Medium
+2023-03-13,Suburb,Drug Offense,Medium
+2023-03-13,Suburb,Burglary,Medium
+2023-03-13,Suburb,Theft,Low
+2023-03-13,Suburb,Theft,Low
+2023-03-13,Industrial Area,Assault,Medium
+2023-03-13,Industrial Area,Assault,Low
+2023-03-13,Industrial Area,Drug Offense,Low
+2023-03-13,Industrial Area,Burglary,High
+2023-03-13,Residential Zone,Assault,Medium
+2023-03-13,Residential Zone,Burglary,Medium
+2023-03-13,Residential Zone,Burglary,Medium
+2023-03-13,City Center,Burglary,Low
+2023-03-13,City Center,Vandalism,Medium
+2023-03-13,City Center,Assault,Low
+2023-03-14,Downtown,Vandalism,Medium
+2023-03-14,Downtown,Theft,Low
+2023-03-14,Downtown,Drug Offense,Low
+2023-03-14,Downtown,Burglary,High
+2023-03-14,Downtown,Theft,Low
+2023-03-14,Downtown,Vandalism,Medium
+2023-03-14,Downtown,Burglary,Medium
+2023-03-14,Suburb,Burglary,Low
+2023-03-14,Suburb,Assault,High
+2023-03-14,Suburb,Burglary,Low
+2023-03-14,Suburb,Theft,Medium
+2023-03-14,Suburb,Theft,Medium
+2023-03-14,Suburb,Theft,Medium
+2023-03-14,Suburb,Vandalism,High
+2023-03-14,Suburb,Assault,Medium
+2023-03-14,Industrial Area,Drug Offense,Low
+2023-03-14,Industrial Area,Drug Offense,High
+2023-03-14,Industrial Area,Burglary,Low
+2023-03-14,Residential Zone,Assault,High
+2023-03-14,Residential Zone,Drug Offense,Low
+2023-03-14,Residential Zone,Drug Offense,Medium
+2023-03-14,Residential Zone,Burglary,Medium
+2023-03-14,City Center,Drug Offense,Low
+2023-03-14,City Center,Drug Offense,Low
+2023-03-14,City Center,Theft,Low
+2023-03-14,City Center,Theft,High
+2023-03-15,Downtown,Drug Offense,Low
+2023-03-15,Downtown,Drug Offense,Medium
+2023-03-15,Downtown,Vandalism,Medium
+2023-03-15,Downtown,Burglary,Low
+2023-03-15,Downtown,Assault,Low
+2023-03-15,Downtown,Burglary,Medium
+2023-03-15,Suburb,Vandalism,Low
+2023-03-15,Suburb,Drug Offense,Low
+2023-03-15,Suburb,Assault,Low
+2023-03-15,Suburb,Theft,Low
+2023-03-15,Suburb,Burglary,Low
+2023-03-15,Suburb,Assault,Medium
+2023-03-15,Industrial Area,Burglary,Medium
+2023-03-15,Industrial Area,Drug Offense,Medium
+2023-03-15,Industrial Area,Burglary,Medium
+2023-03-15,Industrial Area,Assault,Low
+2023-03-15,Industrial Area,Theft,Medium
+2023-03-15,Residential Zone,Vandalism,High
+2023-03-15,Residential Zone,Vandalism,Medium
+2023-03-15,Residential Zone,Assault,Low
+2023-03-15,Residential Zone,Drug Offense,Low
+2023-03-15,Residential Zone,Assault,Low
+2023-03-15,City Center,Burglary,Medium
+2023-03-15,City Center,Vandalism,Low
+2023-03-15,City Center,Theft,Medium
+2023-03-15,City Center,Assault,Low
+2023-03-15,City Center,Assault,Medium
+2023-03-16,Downtown,Burglary,Low
+2023-03-16,Downtown,Theft,Low
+2023-03-16,Downtown,Vandalism,Low
+2023-03-16,Downtown,Burglary,Low
+2023-03-16,Downtown,Burglary,High
+2023-03-16,Suburb,Vandalism,Low
+2023-03-16,Suburb,Assault,Medium
+2023-03-16,Suburb,Theft,Medium
+2023-03-16,Suburb,Theft,Low
+2023-03-16,Suburb,Theft,Medium
+2023-03-16,Suburb,Drug Offense,Low
+2023-03-16,Industrial Area,Drug Offense,Low
+2023-03-16,Industrial Area,Drug Offense,Low
+2023-03-16,Industrial Area,Vandalism,Medium
+2023-03-16,Industrial Area,Assault,Low
+2023-03-16,Industrial Area,Assault,Low
+2023-03-16,Industrial Area,Vandalism,Low
+2023-03-16,Industrial Area,Theft,Medium
+2023-03-16,Industrial Area,Burglary,Medium
+2023-03-16,Residential Zone,Vandalism,Low
+2023-03-16,Residential Zone,Vandalism,Low
+2023-03-16,Residential Zone,Assault,Low
+2023-03-16,Residential Zone,Burglary,High
+2023-03-16,Residential Zone,Drug Offense,High
+2023-03-16,City Center,Assault,Low
+2023-03-16,City Center,Burglary,Medium
+2023-03-16,City Center,Burglary,Low
+2023-03-17,Downtown,Theft,Low
+2023-03-17,Downtown,Burglary,Low
+2023-03-17,Downtown,Drug Offense,Medium
+2023-03-17,Downtown,Burglary,Low
+2023-03-17,Suburb,Drug Offense,High
+2023-03-17,Suburb,Assault,Low
+2023-03-17,Suburb,Burglary,Low
+2023-03-17,Suburb,Theft,Low
+2023-03-17,Suburb,Drug Offense,Low
+2023-03-17,Suburb,Burglary,Low
+2023-03-17,Suburb,Theft,Medium
+2023-03-17,Suburb,Assault,Medium
+2023-03-17,Suburb,Vandalism,Low
+2023-03-17,Industrial Area,Assault,Medium
+2023-03-17,Residential Zone,Burglary,Medium
+2023-03-17,Residential Zone,Theft,Low
+2023-03-17,Residential Zone,Burglary,Medium
+2023-03-17,Residential Zone,Theft,High
+2023-03-17,Residential Zone,Burglary,Medium
+2023-03-17,City Center,Vandalism,Low
+2023-03-17,City Center,Vandalism,High
+2023-03-17,City Center,Theft,Low
+2023-03-17,City Center,Theft,Medium
+2023-03-17,City Center,Vandalism,Medium
+2023-03-17,City Center,Burglary,Low
+2023-03-17,City Center,Assault,Low
+2023-03-17,City Center,Assault,Medium
+2023-03-18,Downtown,Theft,Low
+2023-03-18,Suburb,Burglary,Low
+2023-03-18,Suburb,Vandalism,Medium
+2023-03-18,Industrial Area,Vandalism,Low
+2023-03-18,Industrial Area,Assault,Low
+2023-03-18,Industrial Area,Drug Offense,Low
+2023-03-18,Industrial Area,Theft,Low
+2023-03-18,Industrial Area,Theft,Medium
+2023-03-18,Industrial Area,Drug Offense,Medium
+2023-03-18,Residential Zone,Vandalism,Low
+2023-03-18,Residential Zone,Drug Offense,Low
+2023-03-18,Residential Zone,Burglary,Medium
+2023-03-18,Residential Zone,Theft,Medium
+2023-03-18,Residential Zone,Theft,Low
+2023-03-18,Residential Zone,Burglary,High
+2023-03-18,Residential Zone,Drug Offense,Low
+2023-03-18,Residential Zone,Drug Offense,Low
+2023-03-18,Residential Zone,Assault,Low
+2023-03-18,City Center,Theft,Medium
+2023-03-18,City Center,Assault,Medium
+2023-03-18,City Center,Burglary,High
+2023-03-18,City Center,Vandalism,High
+2023-03-18,City Center,Theft,Low
+2023-03-19,Downtown,Drug Offense,Low
+2023-03-19,Downtown,Theft,Medium
+2023-03-19,Downtown,Theft,Medium
+2023-03-19,Downtown,Drug Offense,Low
+2023-03-19,Downtown,Vandalism,Low
+2023-03-19,Downtown,Assault,Low
+2023-03-19,Suburb,Theft,Low
+2023-03-19,Suburb,Drug Offense,Low
+2023-03-19,Suburb,Assault,Low
+2023-03-19,Suburb,Drug Offense,Medium
+2023-03-19,Industrial Area,Drug Offense,Medium
+2023-03-19,Industrial Area,Theft,Low
+2023-03-19,Industrial Area,Vandalism,Low
+2023-03-19,Industrial Area,Vandalism,Low
+2023-03-19,Industrial Area,Drug Offense,Low
+2023-03-19,Industrial Area,Theft,Low
+2023-03-19,Industrial Area,Theft,Low
+2023-03-19,Industrial Area,Assault,Low
+2023-03-19,Residential Zone,Burglary,Medium
+2023-03-19,Residential Zone,Drug Offense,Low
+2023-03-19,Residential Zone,Vandalism,Medium
+2023-03-19,Residential Zone,Drug Offense,Medium
+2023-03-19,Residential Zone,Drug Offense,Low
+2023-03-19,Residential Zone,Burglary,Low
+2023-03-19,City Center,Assault,Low
+2023-03-19,City Center,Theft,Medium
+2023-03-19,City Center,Drug Offense,Medium
+2023-03-19,City Center,Drug Offense,Low
+2023-03-19,City Center,Theft,Medium
+2023-03-19,City Center,Vandalism,Medium
+2023-03-20,Downtown,Vandalism,Low
+2023-03-20,Downtown,Burglary,High
+2023-03-20,Downtown,Vandalism,Low
+2023-03-20,Downtown,Burglary,Low
+2023-03-20,Downtown,Burglary,Medium
+2023-03-20,Suburb,Assault,Low
+2023-03-20,Suburb,Vandalism,Medium
+2023-03-20,Suburb,Vandalism,Low
+2023-03-20,Suburb,Theft,Low
+2023-03-20,Suburb,Burglary,Low
+2023-03-20,Suburb,Drug Offense,Low
+2023-03-20,Industrial Area,Assault,High
+2023-03-20,Industrial Area,Burglary,Medium
+2023-03-20,Industrial Area,Drug Offense,Medium
+2023-03-20,Industrial Area,Theft,Low
+2023-03-20,Industrial Area,Theft,Medium
+2023-03-20,Industrial Area,Burglary,Low
+2023-03-20,Industrial Area,Vandalism,High
+2023-03-20,Industrial Area,Drug Offense,Low
+2023-03-20,Industrial Area,Burglary,Low
+2023-03-20,Industrial Area,Assault,Low
+2023-03-20,Residential Zone,Assault,Low
+2023-03-20,Residential Zone,Theft,Medium
+2023-03-20,Residential Zone,Burglary,Low
+2023-03-20,Residential Zone,Drug Offense,Low
+2023-03-20,Residential Zone,Theft,Low
+2023-03-20,Residential Zone,Assault,Medium
+2023-03-20,City Center,Drug Offense,Low
+2023-03-20,City Center,Assault,Medium
+2023-03-20,City Center,Vandalism,Low
+2023-03-20,City Center,Drug Offense,Medium
+2023-03-20,City Center,Theft,Low
+2023-03-20,City Center,Vandalism,Medium
+2023-03-20,City Center,Burglary,High
+2023-03-20,City Center,Assault,Medium
+2023-03-20,City Center,Vandalism,Medium
+2023-03-21,Downtown,Theft,High
+2023-03-21,Downtown,Vandalism,Medium
+2023-03-21,Downtown,Theft,Low
+2023-03-21,Suburb,Burglary,Medium
+2023-03-21,Suburb,Vandalism,Low
+2023-03-21,Suburb,Burglary,Low
+2023-03-21,Suburb,Theft,High
+2023-03-21,Industrial Area,Burglary,Low
+2023-03-21,Industrial Area,Burglary,Medium
+2023-03-21,Industrial Area,Theft,Low
+2023-03-21,Industrial Area,Vandalism,Medium
+2023-03-21,Industrial Area,Drug Offense,Medium
+2023-03-21,Residential Zone,Drug Offense,High
+2023-03-21,Residential Zone,Vandalism,Low
+2023-03-21,Residential Zone,Assault,Low
+2023-03-21,Residential Zone,Theft,Low
+2023-03-21,Residential Zone,Burglary,Low
+2023-03-21,Residential Zone,Theft,Low
+2023-03-21,Residential Zone,Assault,High
+2023-03-21,Residential Zone,Burglary,High
+2023-03-21,City Center,Burglary,Low
+2023-03-21,City Center,Drug Offense,Low
+2023-03-22,Downtown,Assault,Low
+2023-03-22,Downtown,Theft,Low
+2023-03-22,Suburb,Burglary,High
+2023-03-22,Suburb,Theft,Medium
+2023-03-22,Industrial Area,Drug Offense,High
+2023-03-22,Industrial Area,Burglary,Low
+2023-03-22,Industrial Area,Drug Offense,High
+2023-03-22,Industrial Area,Theft,Low
+2023-03-22,Industrial Area,Burglary,Medium
+2023-03-22,Residential Zone,Burglary,Low
+2023-03-22,Residential Zone,Burglary,Low
+2023-03-22,Residential Zone,Vandalism,High
+2023-03-22,Residential Zone,Vandalism,Low
+2023-03-22,Residential Zone,Drug Offense,Low
+2023-03-22,Residential Zone,Vandalism,Low
+2023-03-22,City Center,Vandalism,Low
+2023-03-22,City Center,Burglary,High
+2023-03-22,City Center,Theft,Medium
+2023-03-23,Downtown,Burglary,Low
+2023-03-23,Downtown,Vandalism,Medium
+2023-03-23,Downtown,Theft,Low
+2023-03-23,Downtown,Vandalism,Medium
+2023-03-23,Downtown,Vandalism,Medium
+2023-03-23,Downtown,Assault,High
+2023-03-23,Downtown,Theft,High
+2023-03-23,Downtown,Theft,Low
+2023-03-23,Downtown,Burglary,High
+2023-03-23,Suburb,Assault,Medium
+2023-03-23,Suburb,Drug Offense,Medium
+2023-03-23,Suburb,Burglary,High
+2023-03-23,Suburb,Drug Offense,Medium
+2023-03-23,Suburb,Assault,High
+2023-03-23,Industrial Area,Drug Offense,Low
+2023-03-23,Industrial Area,Assault,Low
+2023-03-23,Industrial Area,Assault,Low
+2023-03-23,Industrial Area,Theft,High
+2023-03-23,Industrial Area,Drug Offense,High
+2023-03-23,Industrial Area,Burglary,High
+2023-03-23,Residential Zone,Theft,Medium
+2023-03-23,Residential Zone,Theft,Medium
+2023-03-23,Residential Zone,Drug Offense,Low
+2023-03-23,City Center,Assault,Low
+2023-03-23,City Center,Assault,Medium
+2023-03-23,City Center,Drug Offense,Low
+2023-03-23,City Center,Drug Offense,Low
+2023-03-23,City Center,Theft,Medium
+2023-03-23,City Center,Assault,Low
+2023-03-24,Downtown,Assault,Medium
+2023-03-24,Downtown,Vandalism,Medium
+2023-03-24,Downtown,Burglary,Low
+2023-03-24,Downtown,Assault,Low
+2023-03-24,Downtown,Vandalism,High
+2023-03-24,Downtown,Vandalism,Low
+2023-03-24,Suburb,Theft,Medium
+2023-03-24,Suburb,Burglary,Medium
+2023-03-24,Suburb,Theft,Low
+2023-03-24,Suburb,Theft,Medium
+2023-03-24,Suburb,Burglary,Low
+2023-03-24,Industrial Area,Burglary,Medium
+2023-03-24,Industrial Area,Theft,Medium
+2023-03-24,Industrial Area,Assault,High
+2023-03-24,Industrial Area,Vandalism,Medium
+2023-03-24,Industrial Area,Theft,Medium
+2023-03-24,Industrial Area,Drug Offense,Medium
+2023-03-24,Industrial Area,Drug Offense,High
+2023-03-24,Industrial Area,Theft,Low
+2023-03-24,Residential Zone,Assault,Medium
+2023-03-24,Residential Zone,Assault,Medium
+2023-03-24,Residential Zone,Burglary,Low
+2023-03-24,Residential Zone,Theft,Low
+2023-03-24,Residential Zone,Vandalism,High
+2023-03-24,Residential Zone,Assault,Medium
+2023-03-24,Residential Zone,Drug Offense,Medium
+2023-03-24,Residential Zone,Assault,Medium
+2023-03-24,City Center,Drug Offense,High
+2023-03-24,City Center,Burglary,Low
+2023-03-25,Downtown,Burglary,High
+2023-03-25,Downtown,Assault,Medium
+2023-03-25,Suburb,Assault,Low
+2023-03-25,Suburb,Burglary,Low
+2023-03-25,Suburb,Assault,Low
+2023-03-25,Suburb,Burglary,Low
+2023-03-25,Suburb,Theft,Low
+2023-03-25,Industrial Area,Burglary,Low
+2023-03-25,Industrial Area,Theft,Medium
+2023-03-25,Industrial Area,Drug Offense,Medium
+2023-03-25,Industrial Area,Theft,Medium
+2023-03-25,Residential Zone,Burglary,Low
+2023-03-25,Residential Zone,Assault,Medium
+2023-03-25,Residential Zone,Theft,Low
+2023-03-25,City Center,Vandalism,Low
+2023-03-25,City Center,Theft,High
+2023-03-25,City Center,Burglary,Low
+2023-03-25,City Center,Theft,Medium
+2023-03-25,City Center,Burglary,Medium
+2023-03-25,City Center,Assault,Low
+2023-03-26,Downtown,Burglary,Low
+2023-03-26,Downtown,Theft,Low
+2023-03-26,Downtown,Assault,Low
+2023-03-26,Downtown,Drug Offense,Low
+2023-03-26,Downtown,Assault,Low
+2023-03-26,Suburb,Assault,Low
+2023-03-26,Suburb,Vandalism,Medium
+2023-03-26,Suburb,Assault,Low
+2023-03-26,Suburb,Theft,Medium
+2023-03-26,Suburb,Assault,High
+2023-03-26,Suburb,Theft,Medium
+2023-03-26,Suburb,Drug Offense,Medium
+2023-03-26,Suburb,Assault,Low
+2023-03-26,Industrial Area,Assault,Medium
+2023-03-26,Industrial Area,Vandalism,High
+2023-03-26,Industrial Area,Drug Offense,High
+2023-03-26,Industrial Area,Assault,High
+2023-03-26,Residential Zone,Theft,Medium
+2023-03-26,Residential Zone,Drug Offense,Low
+2023-03-26,City Center,Burglary,Low
+2023-03-26,City Center,Assault,Low
+2023-03-26,City Center,Drug Offense,Medium
+2023-03-26,City Center,Vandalism,Low
+2023-03-26,City Center,Assault,Medium
+2023-03-26,City Center,Theft,Medium
+2023-03-26,City Center,Drug Offense,Low
+2023-03-26,City Center,Burglary,Low
+2023-03-26,City Center,Drug Offense,Low
+2023-03-27,Downtown,Assault,Medium
+2023-03-27,Downtown,Vandalism,Low
+2023-03-27,Downtown,Vandalism,Medium
+2023-03-27,Downtown,Vandalism,Low
+2023-03-27,Downtown,Theft,High
+2023-03-27,Suburb,Burglary,Low
+2023-03-27,Suburb,Assault,Low
+2023-03-27,Suburb,Theft,Low
+2023-03-27,Suburb,Assault,Medium
+2023-03-27,Suburb,Vandalism,Low
+2023-03-27,Suburb,Drug Offense,High
+2023-03-27,Industrial Area,Vandalism,Medium
+2023-03-27,Industrial Area,Vandalism,Low
+2023-03-27,Industrial Area,Theft,Medium
+2023-03-27,Industrial Area,Drug Offense,Low
+2023-03-27,Industrial Area,Assault,Low
+2023-03-27,Industrial Area,Assault,Low
+2023-03-27,Residential Zone,Theft,Medium
+2023-03-27,Residential Zone,Vandalism,High
+2023-03-27,Residential Zone,Burglary,High
+2023-03-27,Residential Zone,Theft,Low
+2023-03-27,City Center,Drug Offense,Low
+2023-03-27,City Center,Vandalism,Medium
+2023-03-27,City Center,Theft,Medium
+2023-03-27,City Center,Theft,Low
+2023-03-27,City Center,Theft,Low
+2023-03-27,City Center,Vandalism,Medium
+2023-03-27,City Center,Assault,High
+2023-03-28,Downtown,Vandalism,Low
+2023-03-28,Downtown,Burglary,Low
+2023-03-28,Downtown,Burglary,Medium
+2023-03-28,Suburb,Vandalism,Medium
+2023-03-28,Suburb,Burglary,Medium
+2023-03-28,Suburb,Assault,Medium
+2023-03-28,Suburb,Vandalism,Low
+2023-03-28,Suburb,Vandalism,Low
+2023-03-28,Suburb,Drug Offense,Medium
+2023-03-28,Industrial Area,Assault,Low
+2023-03-28,Industrial Area,Theft,Low
+2023-03-28,Industrial Area,Drug Offense,Medium
+2023-03-28,Residential Zone,Vandalism,Medium
+2023-03-28,City Center,Burglary,Medium
+2023-03-28,City Center,Theft,Low
+2023-03-28,City Center,Drug Offense,High
+2023-03-28,City Center,Burglary,Low
+2023-03-28,City Center,Vandalism,Low
+2023-03-29,Downtown,Drug Offense,Low
+2023-03-29,Downtown,Assault,Low
+2023-03-29,Downtown,Burglary,High
+2023-03-29,Downtown,Theft,Low
+2023-03-29,Downtown,Theft,Medium
+2023-03-29,Suburb,Burglary,Medium
+2023-03-29,Suburb,Drug Offense,Medium
+2023-03-29,Suburb,Burglary,High
+2023-03-29,Suburb,Vandalism,Low
+2023-03-29,Suburb,Theft,High
+2023-03-29,Suburb,Vandalism,Medium
+2023-03-29,Industrial Area,Assault,Medium
+2023-03-29,Industrial Area,Assault,High
+2023-03-29,Industrial Area,Burglary,High
+2023-03-29,Industrial Area,Drug Offense,Low
+2023-03-29,Industrial Area,Theft,Low
+2023-03-29,Residential Zone,Vandalism,Low
+2023-03-29,Residential Zone,Assault,Low
+2023-03-29,Residential Zone,Burglary,High
+2023-03-29,City Center,Burglary,Medium
+2023-03-29,City Center,Drug Offense,Medium
+2023-03-29,City Center,Vandalism,Low
+2023-03-30,Downtown,Theft,Low
+2023-03-30,Downtown,Burglary,Low
+2023-03-30,Downtown,Burglary,Medium
+2023-03-30,Downtown,Burglary,Low
+2023-03-30,Downtown,Drug Offense,Medium
+2023-03-30,Suburb,Assault,Low
+2023-03-30,Suburb,Drug Offense,Low
+2023-03-30,Suburb,Assault,Low
+2023-03-30,Suburb,Theft,Medium
+2023-03-30,Suburb,Theft,Medium
+2023-03-30,Suburb,Assault,Medium
+2023-03-30,Suburb,Burglary,High
+2023-03-30,Suburb,Drug Offense,Low
+2023-03-30,Suburb,Drug Offense,Low
+2023-03-30,Suburb,Assault,Medium
+2023-03-30,Industrial Area,Vandalism,Medium
+2023-03-30,Industrial Area,Theft,Medium
+2023-03-30,Industrial Area,Burglary,High
+2023-03-30,Industrial Area,Burglary,Medium
+2023-03-30,Industrial Area,Vandalism,High
+2023-03-30,Residential Zone,Theft,Medium
+2023-03-30,Residential Zone,Theft,High
+2023-03-30,Residential Zone,Drug Offense,Medium
+2023-03-30,Residential Zone,Burglary,Low
+2023-03-30,Residential Zone,Burglary,Medium
+2023-03-30,Residential Zone,Theft,High
+2023-03-30,City Center,Theft,Low
+2023-03-30,City Center,Drug Offense,Medium
+2023-03-30,City Center,Assault,High
+2023-03-30,City Center,Burglary,Low
+2023-03-30,City Center,Assault,High
+2023-03-30,City Center,Burglary,Low
+2023-03-31,Downtown,Drug Offense,Medium
+2023-03-31,Downtown,Drug Offense,Medium
+2023-03-31,Downtown,Burglary,High
+2023-03-31,Downtown,Assault,Low
+2023-03-31,Suburb,Assault,Low
+2023-03-31,Suburb,Vandalism,Low
+2023-03-31,Suburb,Burglary,Low
+2023-03-31,Industrial Area,Vandalism,Low
+2023-03-31,Industrial Area,Burglary,Low
+2023-03-31,Industrial Area,Burglary,Low
+2023-03-31,Industrial Area,Burglary,Low
+2023-03-31,Industrial Area,Assault,Low
+2023-03-31,Industrial Area,Theft,High
+2023-03-31,Residential Zone,Theft,High
+2023-03-31,Residential Zone,Drug Offense,Low
+2023-03-31,Residential Zone,Theft,Medium
+2023-03-31,Residential Zone,Vandalism,High
+2023-03-31,Residential Zone,Vandalism,High
+2023-03-31,Residential Zone,Theft,Low
+2023-03-31,Residential Zone,Vandalism,High
+2023-03-31,Residential Zone,Theft,Low
+2023-03-31,City Center,Vandalism,Low
+2023-03-31,City Center,Theft,Low
+2023-03-31,City Center,Drug Offense,Low
+2023-03-31,City Center,Drug Offense,Low
+2023-03-31,City Center,Drug Offense,High
+2023-04-01,Downtown,Drug Offense,Medium
+2023-04-01,Downtown,Burglary,Low
+2023-04-01,Downtown,Theft,Low
+2023-04-01,Downtown,Theft,Low
+2023-04-01,Downtown,Vandalism,Low
+2023-04-01,Suburb,Assault,High
+2023-04-01,Suburb,Vandalism,Low
+2023-04-01,Suburb,Assault,Medium
+2023-04-01,Suburb,Theft,Low
+2023-04-01,Suburb,Assault,Low
+2023-04-01,Suburb,Assault,Medium
+2023-04-01,Suburb,Vandalism,Medium
+2023-04-01,Suburb,Assault,High
+2023-04-01,Suburb,Burglary,Low
+2023-04-01,Industrial Area,Theft,Low
+2023-04-01,Industrial Area,Vandalism,Medium
+2023-04-01,Industrial Area,Assault,Low
+2023-04-01,Industrial Area,Burglary,Low
+2023-04-01,Industrial Area,Assault,Low
+2023-04-01,Industrial Area,Theft,Low
+2023-04-01,Residential Zone,Vandalism,Low
+2023-04-01,Residential Zone,Assault,High
+2023-04-01,Residential Zone,Burglary,Low
+2023-04-01,Residential Zone,Theft,High
+2023-04-01,Residential Zone,Assault,High
+2023-04-01,City Center,Theft,Medium
+2023-04-01,City Center,Drug Offense,Low
+2023-04-01,City Center,Vandalism,High
+2023-04-01,City Center,Assault,Low
+2023-04-02,Downtown,Assault,Low
+2023-04-02,Downtown,Theft,High
+2023-04-02,Suburb,Assault,Medium
+2023-04-02,Suburb,Assault,Medium
+2023-04-02,Suburb,Assault,Low
+2023-04-02,Suburb,Drug Offense,Medium
+2023-04-02,Suburb,Theft,Low
+2023-04-02,Suburb,Assault,Low
+2023-04-02,Suburb,Burglary,High
+2023-04-02,Industrial Area,Vandalism,Low
+2023-04-02,Industrial Area,Drug Offense,Low
+2023-04-02,Industrial Area,Theft,Low
+2023-04-02,Industrial Area,Burglary,Low
+2023-04-02,Residential Zone,Burglary,High
+2023-04-02,Residential Zone,Vandalism,Medium
+2023-04-02,Residential Zone,Assault,Medium
+2023-04-02,Residential Zone,Assault,Low
+2023-04-02,City Center,Drug Offense,Medium
+2023-04-02,City Center,Theft,Low
+2023-04-02,City Center,Burglary,Low
+2023-04-02,City Center,Vandalism,Low
+2023-04-03,Downtown,Drug Offense,High
+2023-04-03,Downtown,Burglary,Medium
+2023-04-03,Downtown,Assault,High
+2023-04-03,Suburb,Burglary,High
+2023-04-03,Suburb,Vandalism,Medium
+2023-04-03,Suburb,Theft,Low
+2023-04-03,Suburb,Drug Offense,Medium
+2023-04-03,Suburb,Vandalism,High
+2023-04-03,Suburb,Assault,Low
+2023-04-03,Industrial Area,Assault,Low
+2023-04-03,Industrial Area,Assault,Low
+2023-04-03,Industrial Area,Burglary,High
+2023-04-03,Industrial Area,Burglary,Low
+2023-04-03,Industrial Area,Burglary,High
+2023-04-03,Industrial Area,Drug Offense,Medium
+2023-04-03,Residential Zone,Assault,Medium
+2023-04-03,Residential Zone,Drug Offense,Low
+2023-04-03,Residential Zone,Vandalism,Medium
+2023-04-03,Residential Zone,Vandalism,High
+2023-04-03,Residential Zone,Burglary,Low
+2023-04-03,City Center,Assault,Medium
+2023-04-03,City Center,Drug Offense,High
+2023-04-03,City Center,Vandalism,Low
+2023-04-03,City Center,Drug Offense,Low
+2023-04-03,City Center,Vandalism,Low
+2023-04-03,City Center,Drug Offense,Medium
+2023-04-03,City Center,Theft,Low
+2023-04-03,City Center,Drug Offense,High
+2023-04-04,Downtown,Drug Offense,Low
+2023-04-04,Downtown,Assault,High
+2023-04-04,Downtown,Burglary,Low
+2023-04-04,Downtown,Assault,Low
+2023-04-04,Downtown,Theft,Low
+2023-04-04,Suburb,Theft,Low
+2023-04-04,Suburb,Burglary,High
+2023-04-04,Suburb,Assault,High
+2023-04-04,Suburb,Drug Offense,Low
+2023-04-04,Suburb,Theft,Low
+2023-04-04,Suburb,Burglary,High
+2023-04-04,Suburb,Burglary,Low
+2023-04-04,Industrial Area,Vandalism,Low
+2023-04-04,Industrial Area,Assault,High
+2023-04-04,Industrial Area,Drug Offense,Low
+2023-04-04,Industrial Area,Drug Offense,High
+2023-04-04,Industrial Area,Vandalism,High
+2023-04-04,Residential Zone,Drug Offense,Medium
+2023-04-04,Residential Zone,Burglary,Medium
+2023-04-04,Residential Zone,Vandalism,Low
+2023-04-04,Residential Zone,Theft,Medium
+2023-04-04,City Center,Vandalism,Medium
+2023-04-04,City Center,Theft,High
+2023-04-04,City Center,Theft,Low
+2023-04-04,City Center,Burglary,Low
+2023-04-05,Downtown,Drug Offense,Low
+2023-04-05,Downtown,Theft,Low
+2023-04-05,Downtown,Assault,Medium
+2023-04-05,Downtown,Drug Offense,Low
+2023-04-05,Downtown,Drug Offense,Low
+2023-04-05,Downtown,Burglary,Low
+2023-04-05,Downtown,Burglary,Low
+2023-04-05,Downtown,Vandalism,Low
+2023-04-05,Suburb,Burglary,High
+2023-04-05,Industrial Area,Theft,High
+2023-04-05,Industrial Area,Drug Offense,Low
+2023-04-05,Industrial Area,Assault,Medium
+2023-04-05,Industrial Area,Assault,High
+2023-04-05,Industrial Area,Assault,Low
+2023-04-05,Residential Zone,Burglary,Medium
+2023-04-05,Residential Zone,Assault,Low
+2023-04-05,Residential Zone,Vandalism,Low
+2023-04-05,Residential Zone,Assault,Low
+2023-04-05,Residential Zone,Vandalism,Low
+2023-04-05,Residential Zone,Theft,Low
+2023-04-05,Residential Zone,Vandalism,Low
+2023-04-05,City Center,Drug Offense,High
+2023-04-05,City Center,Burglary,Low
+2023-04-05,City Center,Assault,Low
+2023-04-05,City Center,Assault,Medium
+2023-04-06,Downtown,Assault,Low
+2023-04-06,Downtown,Theft,Medium
+2023-04-06,Downtown,Drug Offense,Low
+2023-04-06,Downtown,Vandalism,Low
+2023-04-06,Downtown,Assault,Medium
+2023-04-06,Downtown,Vandalism,Low
+2023-04-06,Suburb,Drug Offense,Medium
+2023-04-06,Suburb,Theft,Low
+2023-04-06,Suburb,Drug Offense,Low
+2023-04-06,Suburb,Vandalism,Medium
+2023-04-06,Suburb,Assault,High
+2023-04-06,Suburb,Burglary,Low
+2023-04-06,Suburb,Vandalism,Low
+2023-04-06,Industrial Area,Theft,Medium
+2023-04-06,Industrial Area,Vandalism,Low
+2023-04-06,Industrial Area,Burglary,Low
+2023-04-06,Industrial Area,Assault,Low
+2023-04-06,Industrial Area,Theft,Low
+2023-04-06,Industrial Area,Drug Offense,Medium
+2023-04-06,Residential Zone,Burglary,High
+2023-04-06,Residential Zone,Burglary,Medium
+2023-04-06,City Center,Drug Offense,Low
+2023-04-06,City Center,Vandalism,Medium
+2023-04-06,City Center,Theft,Low
+2023-04-06,City Center,Burglary,Medium
+2023-04-07,Downtown,Drug Offense,Medium
+2023-04-07,Downtown,Theft,Medium
+2023-04-07,Downtown,Burglary,Low
+2023-04-07,Suburb,Vandalism,Low
+2023-04-07,Industrial Area,Vandalism,Low
+2023-04-07,Industrial Area,Drug Offense,Low
+2023-04-07,Industrial Area,Vandalism,Low
+2023-04-07,Industrial Area,Theft,Medium
+2023-04-07,Industrial Area,Assault,Medium
+2023-04-07,Residential Zone,Burglary,Low
+2023-04-07,Residential Zone,Vandalism,High
+2023-04-07,Residential Zone,Theft,Low
+2023-04-07,Residential Zone,Drug Offense,Low
+2023-04-07,City Center,Drug Offense,Medium
+2023-04-07,City Center,Vandalism,Medium
+2023-04-07,City Center,Theft,Low
+2023-04-07,City Center,Burglary,Low
+2023-04-07,City Center,Theft,Medium
+2023-04-07,City Center,Theft,High
+2023-04-08,Downtown,Assault,Low
+2023-04-08,Downtown,Vandalism,Low
+2023-04-08,Downtown,Drug Offense,High
+2023-04-08,Downtown,Vandalism,Medium
+2023-04-08,Downtown,Assault,Low
+2023-04-08,Downtown,Drug Offense,Low
+2023-04-08,Suburb,Drug Offense,Low
+2023-04-08,Suburb,Burglary,Low
+2023-04-08,Suburb,Assault,Low
+2023-04-08,Suburb,Drug Offense,Low
+2023-04-08,Suburb,Assault,High
+2023-04-08,Industrial Area,Drug Offense,Low
+2023-04-08,Industrial Area,Drug Offense,High
+2023-04-08,Industrial Area,Drug Offense,Medium
+2023-04-08,Industrial Area,Vandalism,Medium
+2023-04-08,Industrial Area,Drug Offense,Low
+2023-04-08,Industrial Area,Drug Offense,Medium
+2023-04-08,Industrial Area,Burglary,High
+2023-04-08,Industrial Area,Vandalism,Low
+2023-04-08,Residential Zone,Vandalism,Medium
+2023-04-08,Residential Zone,Assault,Medium
+2023-04-08,Residential Zone,Theft,Low
+2023-04-08,Residential Zone,Burglary,Medium
+2023-04-08,Residential Zone,Theft,High
+2023-04-08,Residential Zone,Burglary,Low
+2023-04-08,Residential Zone,Theft,Medium
+2023-04-08,City Center,Assault,High
+2023-04-08,City Center,Drug Offense,Medium
+2023-04-08,City Center,Vandalism,High
+2023-04-08,City Center,Drug Offense,Low
+2023-04-08,City Center,Assault,High
+2023-04-08,City Center,Theft,Medium
+2023-04-09,Downtown,Vandalism,High
+2023-04-09,Downtown,Theft,Low
+2023-04-09,Downtown,Burglary,Low
+2023-04-09,Suburb,Burglary,High
+2023-04-09,Suburb,Theft,Medium
+2023-04-09,Suburb,Assault,Low
+2023-04-09,Suburb,Drug Offense,High
+2023-04-09,Suburb,Assault,High
+2023-04-09,Suburb,Burglary,Low
+2023-04-09,Industrial Area,Vandalism,Medium
+2023-04-09,Industrial Area,Drug Offense,Low
+2023-04-09,Industrial Area,Theft,Medium
+2023-04-09,Residential Zone,Assault,Medium
+2023-04-09,Residential Zone,Vandalism,Medium
+2023-04-09,City Center,Drug Offense,Medium
+2023-04-09,City Center,Burglary,High
+2023-04-09,City Center,Assault,High
+2023-04-09,City Center,Drug Offense,Low
+2023-04-10,Downtown,Burglary,High
+2023-04-10,Downtown,Assault,Low
+2023-04-10,Downtown,Theft,Low
+2023-04-10,Downtown,Assault,High
+2023-04-10,Downtown,Theft,Low
+2023-04-10,Suburb,Drug Offense,Low
+2023-04-10,Suburb,Theft,Medium
+2023-04-10,Suburb,Assault,Medium
+2023-04-10,Suburb,Vandalism,Low
+2023-04-10,Industrial Area,Burglary,High
+2023-04-10,Industrial Area,Drug Offense,Medium
+2023-04-10,Industrial Area,Burglary,Medium
+2023-04-10,Residential Zone,Assault,High
+2023-04-10,City Center,Assault,Medium
+2023-04-10,City Center,Vandalism,Low
